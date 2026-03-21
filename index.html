@@ -339,6 +339,53 @@
     </div>
   </div>
 
+  <div class="chat-widget" data-chat-widget>
+    <button class="chat-toggle" type="button" aria-label="Abrir chat" aria-expanded="false" data-chat-toggle>
+      <span class="chat-toggle-icon" aria-hidden="true">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+      <span class="chat-toggle-label">Chat</span>
+    </button>
+
+    <section class="chat-panel" aria-hidden="true" aria-label="Janela de chat" data-chat-panel>
+      <div class="chat-panel-header">
+        <div>
+          <p class="chat-kicker">Assistente virtual</p>
+          <h3>Atendimento Judith Kuroe</h3>
+        </div>
+        <button class="chat-close" type="button" aria-label="Fechar chat" data-chat-close>
+          &times;
+        </button>
+      </div>
+
+      <div class="chat-status" aria-live="polite">
+        <span class="chat-status-dot" aria-hidden="true"></span>
+        Online para orientar visitantes
+      </div>
+
+      <div class="chat-messages" data-chat-messages>
+        <article class="chat-message chat-message-bot">
+          <p>Oi! Eu sou a assistente virtual da Judith. Posso tirar duvidas sobre cursos, noivas e mentoria.</p>
+          <span>Agora</span>
+        </article>
+
+        <article class="chat-message chat-message-bot chat-message-highlight">
+          <p>Pode perguntar sobre cursos, noivas, mentorias ou qualquer duvida sobre o atelie!</p>
+          <span>Dica</span>
+        </article>
+      </div>
+
+      <form class="chat-form" data-chat-form>
+        <label class="sr-only" for="chat-input">Digite sua mensagem</label>
+        <textarea id="chat-input" name="message" rows="1" maxlength="500" placeholder="Digite sua mensagem..."
+          data-chat-input></textarea>
+        <button class="chat-send" type="submit">Enviar</button>
+      </form>
+    </section>
+  </div>
+
   <script src="script.js"></script>
 </body>
 
