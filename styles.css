@@ -802,9 +802,6 @@ p {
   right: 18px;
   bottom: 18px;
   z-index: 230;
-  display: grid;
-  justify-items: end;
-  gap: 0.85rem;
 }
 
 .chat-toggle {
@@ -868,6 +865,9 @@ p {
 }
 
 .chat-panel {
+  position: absolute;
+  bottom: calc(100% + 0.85rem);
+  right: 0;
   width: min(380px, calc(100vw - 24px));
   max-height: min(72vh, 640px);
   display: grid;
@@ -1233,7 +1233,6 @@ p {
   .chat-widget {
     right: 12px;
     bottom: 12px;
-    left: 12px;
   }
 
   .chat-toggle {
@@ -1242,7 +1241,7 @@ p {
   }
 
   .chat-panel {
-    width: min(100%, 100vw - 24px);
+    width: calc(100vw - 24px);
     max-height: min(76vh, 620px);
   }
 
