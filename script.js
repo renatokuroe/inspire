@@ -103,27 +103,6 @@ const revealObserver = new IntersectionObserver(
 
 revealElements.forEach((element) => revealObserver.observe(element));
 
-// Parallax discreto nas imagens principais para dar profundidade
-const parallaxElements = document.querySelectorAll(".parallax-soft");
-const applyParallax = () => {
-  if (window.innerWidth < 760) {
-    parallaxElements.forEach((element) => {
-      element.style.transform = "";
-    });
-    return;
-  }
-
-  const scrollY = window.scrollY;
-  parallaxElements.forEach((element) => {
-    const speed = 0.035;
-    const offset = scrollY * speed;
-    element.style.transform = `translateY(${offset}px)`;
-  });
-};
-
-applyParallax();
-window.addEventListener("scroll", applyParallax, { passive: true });
-
 // Slider de imagens do bloco de noivas (uma coluna deslizante)
 const bridalSlider = document.querySelector("[data-bridal-slider]");
 if (bridalSlider) {
