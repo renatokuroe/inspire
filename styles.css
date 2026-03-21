@@ -45,7 +45,7 @@
   --radius: 14px;
   --shadow-sm: 0 10px 30px rgba(0, 0, 0, 0.05);
   --shadow-md: 0 20px 45px rgba(0, 0, 0, 0.08);
-  --section-space: 4.8rem;
+  --section-space: 3.4rem;
 }
 
 *,
@@ -427,6 +427,24 @@ p {
 
 .bridal-gallery {
   position: relative;
+  display: grid;
+  gap: 1rem;
+}
+
+.bridal-featured {
+  margin: 0;
+  overflow: hidden;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  box-shadow: var(--shadow-sm);
+}
+
+.bridal-featured img {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: 0;
 }
 
 .bridal-slider {
@@ -824,7 +842,7 @@ p {
 
 @media (max-width: 759px) {
   :root {
-    --section-space: 2.6rem;
+    --section-space: 1.9rem;
   }
 
   .container {
@@ -1016,7 +1034,7 @@ p {
 
 @media (min-width: 1024px) {
   :root {
-    --section-space: 6.2rem;
+    --section-space: 4.4rem;
   }
 
   .cards {
