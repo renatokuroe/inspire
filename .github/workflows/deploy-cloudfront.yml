@@ -11,9 +11,9 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  AWS_REGION: ${{ vars.AWS_REGION }}
-  S3_BUCKET: ${{ vars.S3_BUCKET }}
-  CLOUDFRONT_DISTRIBUTION_ID: ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }}
+  AWS_REGION: ${{ vars.AWS_REGION || secrets.AWS_REGION }}
+  S3_BUCKET: ${{ vars.S3_BUCKET || secrets.S3_BUCKET }}
+  CLOUDFRONT_DISTRIBUTION_ID: ${{ vars.CLOUDFRONT_DISTRIBUTION_ID || secrets.CLOUDFRONT_DISTRIBUTION_ID }}
 
 jobs:
   deploy:
@@ -29,15 +29,15 @@ jobs:
       - name: Validate required configuration
         run: |
           if [ -z "${AWS_REGION}" ]; then
-            echo "Missing repository variable: AWS_REGION"
+            echo "Missing configuration: set AWS_REGION in Variables or Secrets"
             exit 1
           fi
           if [ -z "${S3_BUCKET}" ]; then
-            echo "Missing repository variable: S3_BUCKET"
+            echo "Missing configuration: set S3_BUCKET in Variables or Secrets"
             exit 1
           fi
           if [ -z "${CLOUDFRONT_DISTRIBUTION_ID}" ]; then
-            echo "Missing repository variable: CLOUDFRONT_DISTRIBUTION_ID"
+            echo "Missing configuration: set CLOUDFRONT_DISTRIBUTION_ID in Variables or Secrets"
             exit 1
           fi
 
