@@ -106,9 +106,10 @@ revealElements.forEach((element) => revealObserver.observe(element));
 // Slider de imagens do bloco de noivas (uma coluna deslizante)
 const bridalSlider = document.querySelector("[data-bridal-slider]");
 if (bridalSlider) {
+  const bridalSection = bridalSlider.closest(".section-bridal-story");
   const track = bridalSlider.querySelector("[data-bridal-track]");
   const slides = [...bridalSlider.querySelectorAll(".bridal-slide")];
-  const dots = [...bridalSlider.querySelectorAll(".slider-dot")];
+  const dots = [...(bridalSection?.querySelectorAll(".slider-dot") ?? [])];
   const prevBtn = bridalSlider.querySelector(".slider-btn.prev");
   const nextBtn = bridalSlider.querySelector(".slider-btn.next");
 

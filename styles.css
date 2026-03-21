@@ -513,6 +513,10 @@ p {
   z-index: 2;
 }
 
+.mobile-dots {
+  display: none;
+}
+
 .slider-dot {
   width: 8px;
   height: 8px;
@@ -1230,6 +1234,21 @@ p {
     object-position: center 22%;
   }
 
+  .section-bridal-story .bridal-slider .slider-dots {
+    display: none !important;
+  }
+
+  .section-bridal-story .mobile-dots {
+    position: static;
+    display: flex !important;
+    left: auto;
+    bottom: auto;
+    transform: none;
+    justify-content: center;
+    margin-top: 0.7rem;
+    padding-bottom: 0.2rem;
+  }
+
   .chat-widget {
     right: 12px;
     bottom: 12px;
@@ -1255,6 +1274,10 @@ p {
 }
 
 @media (min-width: 760px) {
+    .section-bridal-story .mobile-dots {
+      display: none;
+    }
+
   .logo {
     max-width: 300px;
   }
