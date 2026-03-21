@@ -228,6 +228,17 @@ if (chatWidget) {
     }
   };
 
+  const parseChatContent = (content) => {
+    // Converte [texto](url) em links seguros — apenas https/http permitidos
+    return content.replace(
+      /\[([^\]]{1,120})\]\((https?:\/\/[^\s)]{1,500})\)/g,
+      (_, label, url) => {
+        const safeUrl = encodeURI(decodeURIComponent(url));
+        return `<a href="${safeUrl}" target="_blank" rel="noopener noreferrer" class="chat-link">${label}</a>`;
+      }
+    );
+  };
+
   const appendChatMessage = (content, sender, label) => {
     if (!chatMessages) return;
 
@@ -236,7 +247,13 @@ if (chatWidget) {
     const meta = document.createElement("span");
 
     message.className = `chat-message ${sender === "user" ? "chat-message-user" : "chat-message-bot"}`;
-    text.textContent = content;
+
+    if (sender === "bot") {
+      text.innerHTML = parseChatContent(content);
+    } else {
+      text.textContent = content;
+    }
+
     meta.textContent = label || chatTimeFormatter.format(new Date());
 
     message.append(text, meta);
@@ -284,7 +301,8 @@ if (chatWidget) {
     try {
       const reply = await sendMessageToN8n(message);
       appendChatMessage(reply, "bot");
-    } catch {
+    } catch (err) {
+      console.error("[Chat] Erro ao chamar webhook:", err);
       appendChatMessage(
         "Estou com instabilidade no momento. Se preferir, fale com a equipe pelo WhatsApp.",
         "bot"
