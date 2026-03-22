@@ -645,6 +645,13 @@ p {
   transition: transform 0.3s ease, background 0.3s ease;
 }
 
+.icon-logo {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  opacity: 0.94;
+}
+
 .lift-card:hover {
   transform: translateY(-8px);
   border-color: #e7d9d6;
@@ -652,7 +659,7 @@ p {
 }
 
 .lift-card:hover .icon {
-  transform: scale(1.1) rotate(-8deg);
+  transform: scale(1.08);
   background: rgba(205, 166, 160, 0.25);
 }
 
