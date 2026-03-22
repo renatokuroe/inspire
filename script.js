@@ -106,10 +106,9 @@ revealElements.forEach((element) => revealObserver.observe(element));
 // Slider de imagens do bloco de noivas (uma coluna deslizante)
 const bridalSlider = document.querySelector("[data-bridal-slider]");
 if (bridalSlider) {
-  const bridalSection = bridalSlider.closest(".section-bridal-story");
   const track = bridalSlider.querySelector("[data-bridal-track]");
   const slides = [...bridalSlider.querySelectorAll(".bridal-slide")];
-  const dots = [...(bridalSection?.querySelectorAll(".slider-dot") ?? [])];
+  const dots = [...bridalSlider.querySelectorAll(".slider-dot")];
   const prevBtn = bridalSlider.querySelector(".slider-btn.prev");
   const nextBtn = bridalSlider.querySelector(".slider-btn.next");
 
@@ -157,6 +156,66 @@ if (bridalSlider) {
   });
 
   bridalSlider.addEventListener("mouseleave", () => {
+    startAutoSlide();
+  });
+
+  renderSlide(0);
+  startAutoSlide();
+}
+
+// Slider de treinamentos no mobile
+const trainingSlider = document.querySelector("[data-training-slider]");
+if (trainingSlider) {
+  const track = trainingSlider.querySelector("[data-training-track]");
+  const slides = [...trainingSlider.querySelectorAll(".training-slide")];
+  const dots = [...trainingSlider.querySelectorAll(".slider-dot")];
+  const prevBtn = trainingSlider.querySelector(".slider-btn.prev");
+  const nextBtn = trainingSlider.querySelector(".slider-btn.next");
+
+  let currentIndex = 0;
+  let autoSlideTimer;
+
+  const renderSlide = (index) => {
+    currentIndex = (index + slides.length) % slides.length;
+    track.style.transform = `translateX(-${currentIndex * 100}%)`;
+    dots.forEach((dot, dotIndex) => {
+      dot.classList.toggle("active", dotIndex === currentIndex);
+    });
+  };
+
+  const startAutoSlide = () => {
+    autoSlideTimer = window.setInterval(() => {
+      renderSlide(currentIndex + 1);
+    }, 4600);
+  };
+
+  const resetAutoSlide = () => {
+    window.clearInterval(autoSlideTimer);
+    startAutoSlide();
+  };
+
+  prevBtn?.addEventListener("click", () => {
+    renderSlide(currentIndex - 1);
+    resetAutoSlide();
+  });
+
+  nextBtn?.addEventListener("click", () => {
+    renderSlide(currentIndex + 1);
+    resetAutoSlide();
+  });
+
+  dots.forEach((dot, dotIndex) => {
+    dot.addEventListener("click", () => {
+      renderSlide(dotIndex);
+      resetAutoSlide();
+    });
+  });
+
+  trainingSlider.addEventListener("mouseenter", () => {
+    window.clearInterval(autoSlideTimer);
+  });
+
+  trainingSlider.addEventListener("mouseleave", () => {
     startAutoSlide();
   });
 
@@ -229,17 +288,6 @@ if (chatWidget) {
     }
   };
 
-  const parseChatContent = (content) => {
-    // Converte [texto](url) em links seguros — apenas https/http permitidos
-    return content.replace(
-      /\[([^\]]{1,120})\]\((https?:\/\/[^\s)]{1,500})\)/g,
-      (_, label, url) => {
-        const safeUrl = encodeURI(decodeURIComponent(url));
-        return `<a href="${safeUrl}" target="_blank" rel="noopener noreferrer" class="chat-link">${label}</a>`;
-      }
-    );
-  };
-
   const appendChatMessage = (content, sender, label) => {
     if (!chatMessages) return;
 
@@ -248,13 +296,7 @@ if (chatWidget) {
     const meta = document.createElement("span");
 
     message.className = `chat-message ${sender === "user" ? "chat-message-user" : "chat-message-bot"}`;
-
-    if (sender === "bot") {
-      text.innerHTML = parseChatContent(content);
-    } else {
-      text.textContent = content;
-    }
-
+    text.textContent = content;
     meta.textContent = label || chatTimeFormatter.format(new Date());
 
     message.append(text, meta);
@@ -302,8 +344,7 @@ if (chatWidget) {
     try {
       const reply = await sendMessageToN8n(message);
       appendChatMessage(reply, "bot");
-    } catch (err) {
-      console.error("[Chat] Erro ao chamar webhook:", err);
+    } catch {
       appendChatMessage(
         "Estou com instabilidade no momento. Se preferir, fale com a equipe pelo WhatsApp.",
         "bot"

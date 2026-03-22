@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css?v=20260321-1" />
+  <link rel="stylesheet" href="styles.css?v=20260321-11" />
 </head>
 
 <body>
@@ -91,7 +91,7 @@
                 &#10095;
               </button>
 
-              <div class="slider-dots desktop-dots" data-bridal-dots>
+              <div class="slider-dots" data-bridal-dots>
                 <button class="slider-dot active" type="button" aria-label="Ir para imagem 1"></button>
                 <button class="slider-dot" type="button" aria-label="Ir para imagem 2"></button>
                 <button class="slider-dot" type="button" aria-label="Ir para imagem 3"></button>
@@ -117,12 +117,6 @@
               imprevistos.
             </p>
           </div>
-
-          <div class="slider-dots mobile-dots" data-bridal-dots>
-            <button class="slider-dot active" type="button" aria-label="Ir para imagem 1"></button>
-            <button class="slider-dot" type="button" aria-label="Ir para imagem 2"></button>
-            <button class="slider-dot" type="button" aria-label="Ir para imagem 3"></button>
-          </div>
         </div>
       </div>
     </section>
@@ -144,6 +138,36 @@
               <img src="./assets/treinamento-3.png" alt="Momento de celebração com alunas em evento" width="682"
                 height="1024" loading="lazy" decoding="async" />
             </figure>
+          </div>
+
+          <div class="training-mobile-slider" data-training-slider>
+            <div class="training-mobile-track" data-training-track>
+              <figure class="training-slide">
+                <img src="./assets/treinamento-1.png" alt="Judith Kuroe palestrando em treinamento profissional"
+                  width="682" height="1024" loading="lazy" decoding="async" />
+              </figure>
+              <figure class="training-slide">
+                <img src="./assets/treinamento-2.png" alt="Demonstração prática em sala de treinamento" width="682"
+                  height="1024" loading="lazy" decoding="async" />
+              </figure>
+              <figure class="training-slide">
+                <img src="./assets/treinamento-3.png" alt="Momento de celebração com alunas em evento" width="682"
+                  height="1024" loading="lazy" decoding="async" />
+              </figure>
+            </div>
+
+            <button class="slider-btn prev" type="button" aria-label="Treinamento anterior">
+              &#10094;
+            </button>
+            <button class="slider-btn next" type="button" aria-label="Próximo treinamento">
+              &#10095;
+            </button>
+
+            <div class="slider-dots" data-training-dots>
+              <button class="slider-dot active" type="button" aria-label="Ir para treinamento 1"></button>
+              <button class="slider-dot" type="button" aria-label="Ir para treinamento 2"></button>
+              <button class="slider-dot" type="button" aria-label="Ir para treinamento 3"></button>
+            </div>
           </div>
 
           <div class="training-copy">
@@ -392,7 +416,7 @@
     </section>
   </div>
 
-  <script src="script.js?v=20260321-1"></script>
+  <script src="script.js?v=20260321-11"></script>
 </body>
 
 </html>
