@@ -417,7 +417,7 @@ p {
 
 .showcase-text p {
   margin-bottom: 0;
-  max-width: 64ch;
+  max-width: none;
 }
 
 /* Bloco com 4 imagens e narrativa do atendimento */
