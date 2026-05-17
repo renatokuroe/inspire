@@ -192,6 +192,7 @@ p {
 .logo {
   display: inline-flex;
   align-items: center;
+  gap: 0.55rem;
   max-width: 100px;
   transition: transform 0.3s ease;
 }
@@ -204,6 +205,17 @@ p {
   width: 100px;
   height: 100px;
   border-radius: 0;
+}
+
+.logo-text {
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--brand-green);
+  line-height: 1.05;
+  white-space: nowrap;
+  display: inline-flex;
+  flex-direction: column;
 }
 
 .menu-toggle {
