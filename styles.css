@@ -747,6 +747,56 @@ p {
   max-width: 55ch;
 }
 
+.cta-contact-options {
+  margin-top: 1rem;
+  display: grid;
+  gap: 1rem;
+  justify-items: center;
+}
+
+.cta-form {
+  width: min(680px, 100%);
+  display: grid;
+  gap: 0.85rem;
+  text-align: left;
+}
+
+.cta-form-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+}
+
+.cta-form-field {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.cta-form-field span {
+  font-size: 0.9rem;
+  color: var(--brand-green);
+}
+
+.cta-form-field input,
+.cta-form-field textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.72rem 0.85rem;
+  font: inherit;
+  color: var(--text);
+  background: var(--surface);
+}
+
+.cta-form-field textarea {
+  resize: vertical;
+  min-height: 108px;
+}
+
+.cta-form .btn {
+  justify-self: start;
+}
+
 /* Rodapé */
 .footer {
   padding: 2.2rem 0 2.8rem;
@@ -1376,6 +1426,10 @@ p {
 @media (min-width: 760px) {
   .logo {
     max-width: 300px;
+  }
+
+  .cta-form-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .menu-toggle {
