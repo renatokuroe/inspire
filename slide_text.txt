@@ -1,0 +1,2098 @@
+--- temp_ppt/ppt/slides/slide1.xml ---
+WELCOME TO YOUR OWN
+
+DIAGNÓSTICO
+E PLANEJAMENTO
+DE MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide2.xml ---
+VENDER O 
+SEU PRODUTO
+VENDER PARA 
+MAIS PESSOAS
+VENDER
+MAIS VEZES
+VENDER PELO 
+MAIOR VALOR
+é 
+--- temp_ppt/ppt/slides/slide3.xml ---
+ONBOARDING
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+Hoje vamos fazer o alinhamento de expectativas, cronograma e entregaremos seu FMA.
+--- temp_ppt/ppt/slides/slide4.xml ---
+CRONOGRAMA
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide5.xml ---
+PRAZO DE 
+40 DIAS
+Pesquisa de 
+Mercado
+Diagnóstico de Marketing
+Diagnóstico de Vendas
+Reunião de 
+Kick-Off
+Plano de 
+Marketing e Vendas
+AS ETAPAS DO PROCESSO
+Semana 1
+Semana 2
+Semana 3
+Semana 4
+Semana 5
+--- temp_ppt/ppt/slides/slide6.xml ---
+KICK OFF E
+ALINHAMENTOS
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide7.xml ---
+
+Apresentação da equipe
+#todos
+5 min
+
+Benchmark
+#todos
+15 min
+
+Pitch elevador
+#steakholders
+3 min
+
+Sobre o Público
+#todos
+25 min
+
+Sobre a Empresa
+#head #GP #GT
+30 min
+
+Sobre o Design
+#copy #designer
+15 min
+
+S.W.O.T
+#head #GP #GT
+30 min
+
+ESTIMATIVA DA REUNIÃO:
+ 1H45MIN
+COMO FUNCIONA
+--- temp_ppt/ppt/slides/slide8.xml ---
+
+Renato Kuroe
+Account
+
+Wilyan Nazima
+Gestor de Tráfego
+
+Judith Kuroe
+Design
+
+Pedro Carvalho
+Copy
+SEU TIME DE ESPECIALISTAS
+
+--- temp_ppt/ppt/slides/slide9.xml ---
+PITCH ELEVADOR
+&quot;O Inspire Beauty Spa é o único salão de beleza sustentável de Londrina especializado em Dia de Noiva. A gente transforma o momento mais importante da vida das mulheres em uma experiência inesquecível - com salas exclusivas, ritual de spa, sustentabilidade e um cuidado que vai muito além da beleza. Somos o salão que as noivas mais indicam em Londrina e queremos ser referência em todo o Brasil.&quot;
+--- temp_ppt/ppt/slides/slide10.xml ---
+Histórico: Fundada em 2019 por Izabelli Castelli dos Santos. Localizada na Av. Robert Koch, 715 - Londrina/PR. Primeiro salão de beleza com selo de sustentabilidade da região.
+Momento atual: Faturamento est. ~R$150K/mês. Atendimento Ter-Sáb 08h-20h. +11K seguidores no Instagram (@inspire.beautyspa).
+Objetivos: Tornar-se referência Brasil no atendimento de noivas. Estruturar marketing digital e aumentar recorrência de clientes.
+Canais já utilizados: Instagram orgânico, WhatsApp Business, Google Meu Negócio, site WordPress.
+Serviços: Pacotes Noivas (Master/Premium/Basic/Rosé), Spa Day (Relaxante/Eu Mereço/Personalizado), Cabelo, Manicure, Estética, Projeto Frida.
+Estratégias validadas: Instagram orgânico, atendimento personalizado, sala exclusiva para noivas, ritual de boas-vindas com escalda pés.
+Bônus/Valores: Robe bordado para noivas, café especial, frisante para brinde, Eco Bag, energia fotovoltaica como diferencial sustentável.
+SOBRE A EMPRESA
+--- temp_ppt/ppt/slides/slide11.xml ---
+BENCHMARKING
+Principais concorrentes: Fábio Farias Salão, Studio Athena, Blessed Instituto de Beleza, Claudia Ferraz Noivas e MP Beauty &amp; Bar.
+Inspirações: Salões premium com identidade sustentável (como Green Salon), spas urbanos de São Paulo e experiências de day spa internacionais.
+Parceiros potenciais (não concorrentes): Buffets de casamento, fotógrafos de casamento, estúdios de noivas, clínicas de estética médica.
+Comunicação que não faz sentido para o Inspire: guerra de preços com promoções agressivas - fere o posicionamento premium e o valor da experiência.
+--- temp_ppt/ppt/slides/slide12.xml ---
+
+S
+FORÇAS
+1 -Único salão de Londrina com selo de sustentabilidade ambiental
+ (energia fotovoltaica, eco bag, triagem de recicláveis, beleza verde) — diferencial competitivo real e raro no setor
+2 -Especialização reconhecida em Dia de Noiva
+, com 4 pacotes estruturados (Master, Premium, Basic, Rosé) e salas exclusivas nomeadas (Ylang Ylang, Lavanda, Rosé)
+3 - Portfólio completo e premium
+: cabelo, estética facial, corporal, spa, manicure, maquiagem e o exclusivo Projeto Frida para sobrancelhas
+4 - Estrutura física diferenciada
+: hidromassagem, salas privativas, ritual sensorial de boas-vindas (escalda pés + chá terapêutico), robe bordado e café especial para noivas
+5 - Presença digital orgânica ativa
+: 11K seguidores no Instagram, 1.487 posts e comunidade engajada no WhatsApp
+6 - Missão e cultura fortes
+: &quot;Só é bom pra gente, se for bom para o cliente&quot; — propósito claro que fideliza equipe e clientela
+
+
+W
+1 - Sem sistema de agendamento online
+ — 100% dependente do WhatsApp manual, gerando gargalos e risco de perda de leadsto de menor ticket
+2 - Ausência de CRM e funil estruturado para noivas
+ — sem follow-up, leads quentes esfriam sem conversão
+3 - Presença digital com falhas técnicas
+: token do Instagram expirado (feed do site quebrado) e sem Meta Pixel ativo
+4 - Sem Google Ads ativo e sem funil de conversão estruturado pós-anúncio
+I)
+5 - Sem programa de fidelidade estruturado
+ — não há clube de benefícios, cashback ou plano de recorrência para clientes de rotinara
+6 - Operação centralizada na proprietária
+ — ausência de coordenadora de noivas e estrutura comercial dedicada
+
+FRAQUEZAS
+--- temp_ppt/ppt/slides/slide13.xml ---
+
+O
+OPORTUNIDADES
+1- Mercado de casamentos aquecido
+: estimativa de +2.000 casamentos/ano em Londrina e região, com noivas buscando experiência premium e exclusiva
+2 - Crescimento expressivo da demanda por Spa Day e autocuidado
+ — tendência pós-pandemia consolidada, especialmente entre mulheres de 25-45 anos (classe B/C+)
+3 - Beleza sustentável em alta
+: consumidoras das Gerações Y e Z pagam mais por marcas com propósito ambiental — diferencial que o Inspire já possui e ainda não explora plenamente no marketing
+4 - Gap de mercado em tráfego pago local
+: nenhum concorrente direto domina Google Ads ou Meta Ads para noivas em Londrina — janela de oportunidade clara
+5 - Parcerias estratégicas inexploradas
+: buffets, fotógrafos, igrejas e cerimonialistas de casamento em Londrina podem ser canais ativos de indicação de noivas
+6 - Gift cards e Spa Day corporativo
+: mercado de presentes para ocasiões especiais (Dia das Mães, aniversários, chá de panela) com altíssimo potencial de receita incremental
+
+
+T
+1 - Proliferação de profissionais autônomos e home studios
+ com preços 40-60% menores — pressão constante no segmento de menor ticket
+2 - Tendência de noivas preferirem produção no local do casamento
+ (hotel, fazenda, espaço de eventos) em vez de ir ao salão
+3 - Concorrentes com maior presença digital e investimento em marketing
+: Fábio Farias, Studio Athena e Claudia Ferraz Noivas têm maior visibilidade no Google
+4 - Alto risco de turnover de profissionais qualificados — cabeleireiros e maquiadoras são disputados pelo mercado (MEI)
+5 - Sazonalidade do mercado de noivas
+ (concentrada em março-julho e outubro-dezembro) cria oscilação de faturamento
+6 - Instabilidade econômica
+ pode fazer clientes reduzirem frequência de visitas a salões premium
+
+AMEAÇAS
+--- temp_ppt/ppt/slides/slide14.xml ---
+
+Idade: 25-45 anos (noivas: 25-35)
+
+Gênero: Predominantemente feminino (95%+)
+
+Perfil: Mulheres de classe B/C+ que valorizam autocuidado e experiências exclusivas
+
+Peculiaridades: Noivas pesquisam meses antes; clientes Spa Day vêm presenteadas
+
+Classe Social: B e C+, renda familiar a partir de R$4.000/mês
+
+Budget: R$80-250 por visita; pacotes noiva de R$500 a R$2.000+
+
+Desejos: Sentir-se linda, exclusiva e bem cuidada; lembrança positiva do momento
+
+Medos: Não gostar do resultado; ser mal atendida no dia mais importante da vida
+SOBRE O PÚBLICO
+--- temp_ppt/ppt/slides/slide15.xml ---
+
+Ativos Digitais: Instagram @inspire.beautyspa (11K), Site WordPress, WhatsApp Business
+
+Influencers e Parcerias: Fotógrafos de casamento, buffets, igrejas, micro-influencers de Londrina
+
+Manual de Identidade Visual: Paleta verde/natural (sustentabilidade) + tons quentes femininos. Logo em uso desde 2019.
+
+Preferências de Design: Fotografia clean e bem iluminada; before/after; bastidores; ambiente aconchegante
+SOBRE O DESIGN
+--- temp_ppt/ppt/slides/slide16.xml ---
+DIAGNÓSTICO
+FMA
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide17.xml ---
+
+
+
+PROCESSOS
+FMA1
+Mapeamento e Padronização
+Acompanhamento e Medição
+Tempo e Eficiência Operacional
+Automação e Integração
+Replicabilidade e Treinamento
+SLA e Qualidade de Entrega
+Escalabilidade Estrutural
+--- temp_ppt/ppt/slides/slide18.xml ---
+
+PROCESSOS
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+3,5
+Agendamento manual via WhatsApp gera erros e perda de leads. Sem ficha de anamnese digital ou checklist de qualidade. Processos dependem da memória da equipe.
+PLANO DE AÇÃO
+Curto Prazo
+
+Criar ficha de anamnese digital para cada cliente
+Padronizar protocolo de atendimento e tempo por serviço
+Implementar checklist de qualidade pós-atendimento
+--- temp_ppt/ppt/slides/slide19.xml ---
+
+3,5
+PLANO DE AÇÃO
+Médio Prazo
+
+Automatizar agendamento com sistema online (Booksy, Trinks)
+Criar manual de processos para novos colaboradores
+Definir SLA por tipo de serviço e medir tempo de atendimento
+PROCESSOS
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Sistema de agendamento online ainda não implementado. Ausência de manual de processos dificulta onboarding de novos profissionais e padronização do atendimento.
+--- temp_ppt/ppt/slides/slide20.xml ---
+
+3,5
+PLANO DE AÇÃO
+Longo Prazo
+
+Escalar processos para unidade adicional ou franquia
+Integrar CRM com histórico completo de cada cliente
+Criar dashboard de KPIs operacionais para gestão diária
+PROCESSOS
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Operação centralizada na proprietária sem KPIs definidos. Sem CRM integrado, impossível medir recorrência, churn e oportunidades de upsell por cliente.
+--- temp_ppt/ppt/slides/slide21.xml ---
+PESSOAS
+FMA2
+Estrutura Organizacional
+Liderança e Tomada de Decisão
+Clima e Cultura Interna
+Produtividade e Entregas
+Contratação e Retenção
+Capacitação e Desenvolvimento
+Incentivos e Remuneração Variável
+
+
+
+--- temp_ppt/ppt/slides/slide22.xml ---
+
+4,0
+PLANO DE AÇÃO
+Curto Prazo
+
+Mapear carga horária e distribuição de atendimentos por profissional
+Criar ritual de feedback semanal com a equipe
+Definir bonificação por metas de atendimento e avaliações
+PESSOAS
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Distribuição de carga horária não mapeada, sem feedback estruturado e sem critérios de bonificação por desempenho.
+--- temp_ppt/ppt/slides/slide23.xml ---
+
+4,0
+PLANO DE AÇÃO
+Médio Prazo
+
+Implementar capacitação mensal em novas técnicas e atendimento
+Criar plano de carreira para profissionais com mais de 1 ano
+Contratar recepcionista dedicada ao atendimento de noivas
+PESSOAS
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Capacitação técnica pontual sem calendário fixo. Sem plano de carreira e recepção acumulando funções comerciais sem treinamento.
+--- temp_ppt/ppt/slides/slide24.xml ---
+
+4,0
+PLANO DE AÇÃO
+Longo Prazo
+
+Estruturar organograma formal com liderança por área
+Implementar PLR para reter talentos
+Criar academia interna para formação de novos profissionais
+PESSOAS
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Sem organograma formal, sem PLR e sem política de retenção. Alto risco de turnover de especialistas sem plano de desenvolvimento.
+--- temp_ppt/ppt/slides/slide25.xml ---
+MÍDIA
+FMA3
+Posicionamento Estratégico
+Mensagem e Copy
+Canais de Aquisição
+Estratégia de Conversão
+Funil e Jornada do Cliente
+Mídia Paga e ROI
+Retenção e Lifetime Value
+
+
+
+
+
+
+--- temp_ppt/ppt/slides/slide26.xml ---
+
+6,5
+PLANO DE AÇÃO
+Curto Prazo
+
+Estruturar funil de nurturing para leads de noivas via WhatsApp pós-clique no anúncio
+Ativar Google Ads para termos de busca &quot;dia de noiva Londrina&quot; e &quot;salão noivas Londrina&quot;
+Produzir Reels e vídeos de bastidores para aumentar alcance orgânico
+MÍDIA
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Meta Ads ativo com ~21 campanhas desde fev/2026. Porém token do Instagram expirado quebra o feed no site. Sem Google Ads ativo para capturar buscas de noivas e sem rastreamento de conversões configurado nos anúncios.
+--- temp_ppt/ppt/slides/slide27.xml ---
+
+6,5
+PLANO DE AÇÃO
+Médio Prazo
+
+Reconectar token do Instagram ao site urgente — feed quebrado prejudica conversão
+Configurar eventos de conversão no Meta Ads (WhatsApp click, agendamento)
+Lançar campanha no Google Ads para busca ativa &quot;dia de noiva Londrina&quot;
+Sem tráfego pago ati
+MÍDIA
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Meta Ads ativo com ~21 campanhas rodando desde fev/2026, com criativos de Noivas e Spa Day. Porém sem funil de nurturing estruturado para leads e sem Google Ads ativo para capturar buscas orgânicas.
+--- temp_ppt/ppt/slides/slide28.xml ---
+
+6,5
+PLANO DE AÇÃO
+Longo Prazo
+
+Inserir posicionamento sustentável nos criativos do Meta Ads como diferencial competitivo
+Lançar programa de afiliados com fotógrafos, buffets e igrejas de casamento
+Criar conteúdo de autoridade (blog ou YouTube) sobre beleza e bem-estar sustentável
+MÍDIA
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Campanhas pagas ativas mas sem estratégia de conteúdo de autoridade. O posicionamento sustentável — maior diferencial do Inspire — ainda não aparece nos criativos das campanhas pagas.
+--- temp_ppt/ppt/slides/slide29.xml ---
+TECNOLOGIA
+FMA4
+Ferramentas, Softwares e I.A
+Integração entre Plataformas
+Automação de Processos
+Segurança de Dados
+BI e Tomada de Decisão por Dados
+Experiência Digital do Cliente
+Aderência a Inovações
+
+
+--- temp_ppt/ppt/slides/slide30.xml ---
+
+2,0
+PLANO DE AÇÃO
+Curto Prazo
+
+Implementar sistema de agendamento online (Booksy ou Trinks)
+Ativar Google Tag Manager com Meta Pixel no site
+Integrar WhatsApp Business API para confirmações automáticas
+TECNOLOGIA
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Sem sistema de agendamento online. GTM instalado mas sem Meta Pixel e sem eventos de conversão configurados.
+--- temp_ppt/ppt/slides/slide31.xml ---
+
+2,0
+PLANO DE AÇÃO
+Médio Prazo
+
+Implementar CRM básico para histórico de clientes e segmentação
+Criar dashboard de métricas: atendimentos, ticket médio, ocupação
+Usar I.A. para sugestão de horários e personalização de mensagens
+TECNOLOGIA
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Sem CRM para gestão de clientes. Impossível medir taxa de retorno, recorrência e oportunidades de upsell por perfil de cliente.
+--- temp_ppt/ppt/slides/slide32.xml ---
+
+2,0
+PLANO DE AÇÃO
+Longo Prazo
+
+Migrar para ERP completo com gestão financeira e agenda integradas
+Implementar programa de fidelidade digital com pontos e recompensas
+Usar análise de dados para identificar oportunidades de upsell
+TECNOLOGIA
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Sem ERP ou dashboard integrado. Gestão financeira, agenda e estoque operando de forma desconectada, limitando a escala do negócio.
+--- temp_ppt/ppt/slides/slide33.xml ---
+CAPITAL
+FMA5
+Gestão de Caixa
+Margem de Contribuição
+Precificação
+Indicadores (KPIs)
+Captação de Recursos
+Uso do Capital
+Estrutura de Equity
+
+
+
+
+
+--- temp_ppt/ppt/slides/slide34.xml ---
+
+3,0
+PLANO DE AÇÃO
+Curto Prazo
+
+Mapear DRE mensal: receita por serviço, custo fixo, variável e margem
+Definir ticket médio meta por tipo de cliente (rotina vs noiva vs spa)
+Criar controle de fluxo de caixa com provisão para sazonalidade
+CAPITAL
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Sem DRE mensal estruturado por serviço. Ticket médio não monitorado por categoria, dificultando decisões de precificação e promoção.
+--- temp_ppt/ppt/slides/slide35.xml ---
+
+3,0
+PLANO DE AÇÃO
+Médio Prazo
+
+Implementar precificação estratégica baseada em valor percebido
+Criar curva ABC dos serviços para priorizar os mais rentáveis
+Buscar capital de giro para equipamentos de estética e spa
+CAPITAL
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Precificação não baseada em valor percebido. Sem curva ABC dos serviços para identificar os mais rentáveis e priorizar esforços comerciais.
+--- temp_ppt/ppt/slides/slide36.xml ---
+
+3,0
+PLANO DE AÇÃO
+Longo Prazo
+
+Estruturar receita recorrente: assinatura de manutenção mensal
+Avaliar modelo de franquia ou licenciamento da marca Inspire
+Diversificar receita com venda de produtos de beleza sustentáveis
+CAPITAL
+DIAGNÓSTICO
+DIAGNÓSTICO INICIAL
+Sem modelo de receita recorrente estruturado. Faturamento sujeito à sazonalidade sem reserva ou estratégia de diversificação de receita.
+--- temp_ppt/ppt/slides/slide37.xml ---
+ASSESSMENT
+E DADOS
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide38.xml ---
+PLATAFORMAS
+DE ANÚNCIOS
+Contas de Google, Meta, Linkedin, TikTok, Programática
+FERRAMENTAS 
+DE ANÁLISE
+Google Analytics, Microsoft Clarity, Hotjar Dashboards
+FERRAMENTAS DA EMPRESA
+Google Tag Manager, CRM, Site e 
+Landing Pages
+ASSESSMENT E DADOS
+--- temp_ppt/ppt/slides/slide39.xml ---
+Reunião de Kick-Off
+Semana 1
+Alinhamento com o Time
+Fizemos o alinhamento das expectativas do projeto, da necessidade da empresa e também entendemos melhor a realidade atual do negócio.
+
+FMA
+Diagnosticamos e trouxemos potenciais melhorias que podem alavancar os resultados da empresa na área de Processos, Pessoas, Mídia, Tecnologia e Capital.
+Pesquisa de Mercado
+Semana 2
+Diagnóstico de Mkt
+Semana 3
+Diagnóstico de Vendas
+Semana 4
+Plano de Mkt e Vendas
+Semana 5
+O QUE ACONTECEU ESSA SEMANA
+--- temp_ppt/ppt/slides/slide40.xml ---
+O QUE VAMOS VER NA SEMANA QUE VEM?
+Pesquisa de Mercado:
+Estudo do seus concorrentes
+Mercados atuais e potenciais
+Público alvo mais assertivo
+Posicionamento Estratégico:
+Comparação do produto no mercado
+Seus diferenciais competitivos
+Sua PUV
+--- temp_ppt/ppt/slides/slide41.xml ---
+MERCADO
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+Hoje vamos aprofundar no seu mercado e entender melhor quem são os concorrentes, clientes e como está o seu posicionamento estratégico.
+--- temp_ppt/ppt/slides/slide42.xml ---
+PESQUISA 
+DE MERCADO
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide43.xml ---
+ANÁLISE 
+DE MERCADO
+PESQUISA DE 
+MERCADO
+--- temp_ppt/ppt/slides/slide44.xml ---
+SEU MERCADO
+Submercados Relacionados:
+Cabelo e Tricologia → Cortes, coloração, mechas, alisamentos e tratamentos capilares
+Manicure e Pedicure → Esmaltação, alongamento de unhas, blindagem e plástica dos pés
+Estética Facial → Limpeza de pele, peeling, microagulhamento e tratamentos de rejuvenescimento
+Estética Corporal → Massagens relaxantes, drenagem linfática, radiofrequência e tratamentos modeladores
+Dia de Noiva e Eventos → Pacotes exclusivos de penteado, maquiagem e spa para noivas, madrinhas e formandas
+Spa Day e Bem-Estar → Pacotes sensoriais de relaxamento, aromaterapia, escalda pés e rituais terapêuticos
+Maquiagem e Design de Sobrancelhas → Maquiagem social, brow lamination, coloração e Projeto Frida
+
+Beleza, Estética e Bem-Estar
+NOME DO MERCADO:
+--- temp_ppt/ppt/slides/slide45.xml ---
+Concorrentes Diretos
+
+
+
+
+
+
+Fábio Farias Salão - Referência em Londrina, ambiente requintado e profissionais altamente qualificados em cabelo e beleza.
+
+
+
+
+Studio Athena - Salão especializado em noivas, madrinhas e formandas, com salas exclusivas climatizadas próximo a buffets.
+Claudia Ferraz Noivas - Especializado em penteado e maquiagem para noivas em Londrina.
+Blessed Instituto de Beleza - Atende noivas com pacotes completos, serviços de cabelo, estética e maquiagem.
+MP Beauty &amp; Bar - Salão moderno com equipe em constante atualização, maquiagem e serviços tradicionais.
+--- temp_ppt/ppt/slides/slide46.xml ---
+Benchmarking - Studio Athena Londrina
+Studio Athena: Localizado próximo aos principais Buffets de Londrina. Salas exclusivas e climatizadas para noivas, madrinhas e formandas. Forte posicionamento no Google Meu Negócio, com avaliações positivas. Diferencial: experiência de atendimento e proximidade com buffets - capturando clientes no momento de contratação do local do casamento.
+--- temp_ppt/ppt/slides/slide47.xml ---
+TAM (Total Addressable Market)
+Mercado Endereçável - Beleza &amp; Spa
+
+Estimativa: O Brasil movimenta mais de US$ 27 bilhões/ano em beleza (Sebrae), com previsão de US$ 32 bilhões até 2027.
+
+Contexto para o mercado:
+O Brasil é o 4º maior mercado de beleza do mundo, com crescimento de 12,7% em 2024 (Euromonitor).
+São mais de 1 milhão de estabelecimentos de beleza registrados no país (SEBRAE/ABIHPEC).
+O setor de salões e spa movimenta mais de R$ 50 bilhões/ano no Brasil.
+TAM da Inspire - Brasil: R$ 50 bilhões/ano. Estimativa: US$ 27 bilhões em 2024 (Sebrae), com crescimento projetado para US$ 32 bilhões até 2027.
+Contexto Brasil:
+O Brasil é o 4º maior mercado de beleza do mundo e cresce 12,7% ao ano.
+São mais de 1 milhão de estabelecimentos de beleza no país (SEBRAE/ABIHPEC).
+O mercado de salões e spa movimenta mais de R$ 50 bilhões/ano no Brasil.
+TAM Inspire - Brasil: R$ 50 bilhões/ano (mercado total de beleza, estética e bem-estar).
+--- temp_ppt/ppt/slides/slide48.xml ---
+SAM (Serviceable Available Market)
+Mercado Disponível - Paraná e Região Sul
+
+Estimativa: O Paraná representa aprox. 8% do mercado nacional de beleza, com Londrina sendo o 2º maior polo do estado.
+
+Fatores considerados:
+Clientela feminina de média-alta renda da região norte do Paraná.
+Mercado de noivas em Londrina: estimativa de +2.000 casamentos/ano na região.
+Demanda crescente por Spa Day, estética premium e serviços de bem-estar.
+
+Conclusão:
+SAM da Inspire - Região: ~R$ 400 milhões/ano (beleza e estética no norte do Paraná).
+--- temp_ppt/ppt/slides/slide49.xml ---
+SOM (Serviceable Obtainable Market)
+Mercado Alcançável - Inspire Beauty Spa
+
+Estimativa: Com ticket médio de R$ 180, atendimento Ter-Sáb e posicionamento premium em noivas e spa, o Inspire pode capturar 0,5% a 1% do SAM regional.
+
+Fatores considerados:
+Capacidade operacional atual: ~25 atendimentos/dia.
+Diferencial de sustentabilidade e experiência exclusiva de noivas.
+Expansão do mercado de noivas e Spa Day na região de Londrina.
+
+Conclusão:
+SOM da Inspire: R$ 1,8 milhões a R$ 4 milhões/ano (mercado alcançável no curto e médio prazo).
+--- temp_ppt/ppt/slides/slide50.xml ---
+~R$50B
+
+
+
+TAM
+
+
+
+SAM
+
+
+
+SOM
+SOBRE O MERCADO
+TAM: O potencial máximo de mercado para um produto ou serviço em um determinado mercado, representando toda a receita ou demanda disponível se todos os consumidores comprassem.
+SAM: A porção do TAM que uma empresa pode atender com suas capacidades operacionais e de distribuição atuais, considerando limitações como recursos, tecnologia e geografia.
+SOM: A fração do SAM que uma empresa pode realisticamente capturar ou atender a curto prazo, levando em conta limitações competitivas, operacionais e barreiras de entrada.
+~R$400M
+~
+2M-4M
+Salões de beleza e cabeleireiros: R$ 35 bilhões/ano | Spa e estética corporal/facial: R$ 10 bilhões/ano | Dia de noiva e eventos especiais: R$ 5 bilhões/ano
+Recorte do TAM que o Inspire pode atender hoje com sua estrutura atual. Região atendida: Londrina e norte do Paraná. Segmentos atendidos: Noivas, Spa Day, Cabelo, Estética Facial e Corporal
++20% → R$ 1,8M/ano - Gestão de agenda, WhatsApp ativo e postagens regulares +40% a 50% → R$ 2,5M/ano - CRM, tráfego pago, programa de fidelidade e pacotes premium +65% a 70% → R$ 3,5M a R$ 4M/ano - Adoção total: automação de marketing, expansão de noivas e Spa Day
+--- temp_ppt/ppt/slides/slide51.xml ---
+JOBS TO BE DONE
+PESQUISA DE 
+MERCADO
+--- temp_ppt/ppt/slides/slide52.xml ---
+Job To Be Done Geral do Mercado
+A grande &quot;dor&quot; ou o &quot;trabalho&quot; fundamental que a maioria dos potenciais clientes que precisam deste produto/serviço em seu dia a dia é:
+
+“Quero me sentir bonita, cuidada e confiante para os momentos mais importantes da minha vida”
+
+Basicamente a cliente busca transformação estética combinada com bem-estar emocional e uma experiência que a faça sentir especial.
+--- temp_ppt/ppt/slides/slide53.xml ---
+Job To Be Done #1 - Noivas
+“Quero que meu casamento seja perfeito e preciso estar incrivelmente linda e tranquila neste dia”
+
+Raciocínio Estratégico: A noiva é o segmento mais lucrativo e emocional do setor. Ela não compra um penteado - compra segurança e memória afetiva.
+
+Alta disposição para pagar por pacotes completos (Noiva Master, Premium, Basic, Rosé)
+Busca exclusividade: sala reservada, robe bordado e experiência personalizada
+Indicação intensa após boa experiência - LTV altíssimo via rede de madrinhas e convidadas
+--- temp_ppt/ppt/slides/slide54.xml ---
+Job To Be Done #2 - Bem-Estar e Spa
+“Preciso de um momento só para mim, longe do estresse do dia a dia, para recarregar as energias”
+
+Raciocínio Estratégico: Spa Day e massagens respondem a uma necessidade emocional de autocuidado - segmento em forte crescimento pós-pandemia.
+
+Pacotes Spa Day (Relaxante, Eu Mereço, Personalizado) são tickets altos e experiências memoráveis
+Gift cards e pacotes presenteados por familiares geram novo fluxo de clientes
+A sustentabilidade e o ritual de boas-vindas diferenciam o Inspire de salões tradicionais
+--- temp_ppt/ppt/slides/slide55.xml ---
+Job To Be Done #3 - Rotina de Beleza
+“Quero manter minha beleza e autoestima em dia com um salão que eu confie e me faça sentir bem”
+
+Raciocínio Estratégico: A cliente recorrente de manutenção é a base da receita - frequenta mensalmente e garante previsibilidade financeira.
+
+Serviços recorrentes: manicure, pedicure, escova e cuidados capilares mensais
+Qualidade e cordialidade do atendimento são decisivas para a fidelização
+Cruzamento de serviços (esmaltação + tratamento facial) aumenta ticket médio por visita
+--- temp_ppt/ppt/slides/slide56.xml ---
+ESTUDO DE BENCHMARKING
+PESQUISA DE 
+MERCADO
+--- temp_ppt/ppt/slides/slide57.xml ---
+BENCHMARKING
+Fábio Farias Salão
+Google Ads:
+ Não foram identificadas campanhas ativas do Fábio Farias Salão no Google Ads. Há presença no Google Meu Negócio com boas avaliações e fotos do espaço, o que gera tráfego orgânico local.
+Meta Ads:
+ Não foram identificados anúncios ativos no Meta Ads Library. A captação parece ser majoritariamente por indicação e orgânico no Instagram (@salaofabiofarias).
+
+--- temp_ppt/ppt/slides/slide58.xml ---
+ESTUDO DE PÚBLICO ALVO
+PESQUISA DE 
+MERCADO
+--- temp_ppt/ppt/slides/slide59.xml ---
+ANÁLISE SWOT
+Pontos fortes que impulsionam a vantagem.
+Strengths |
+ FORÇAS
+
+Posicionamento premium com foco em sustentabilidade ambiental e bem-estar - diferencial único no mercado de Londrina.
+Especialização reconhecida em dia de noiva com salas exclusivas (Ylang Ylang, Lavanda, Rosé).
+Portfólio completo: cabelo, estética, spa, maquiagem, manicure e Projeto Frida (sobrancelhas).
+Estrutura física diferenciada com hidromassagem, salas privativas e ritual sensorial de boas-vindas.
+Localização estratégica na Av. Robert Koch 715 e atendimento terça a sábado das 8h às 20h.
+--- temp_ppt/ppt/slides/slide60.xml ---
+ANÁLISE SWOT
+Fraquezas internas que limitam o desempenho.
+Weaknesses |
+ FRAQUEZAS
+
+Ausência de sistema de agendamento online e CRM integrado para gestão de clientes.
+Presença digital limitada: Instagram sem integração ativa e sem programa de fidelidade estruturado.
+Dependência de indicações e pouco investimento em tráfego pago e marketing digital.
+Pouca estruturação de pacotes de manutenção (planos mensais, assinaturas).
+Escala limitada pela capacidade física e número de profissionais.
+Sem programa formal de indicação ou clube de vantagens para clientes recorrentes.
+--- temp_ppt/ppt/slides/slide61.xml ---
+ANÁLISE SWOT
+Oportunidades externas a serem aproveitadas.
+Opportunities |
+ OPORTUNIDADES
+
+Crescimento do mercado de casamentos: mais de 2.000 casamentos/ano estimados na região de Londrina.
+Demanda crescente por Spa Day, autocuidado e bem-estar pós-pandemia em todas as faixas etárias.
+Digitalização do agendamento e CRM para fidelizar clientes e aumentar a recorrência.
+Expansão de pacotes corporativos e gift cards para presente - mercado ainda pouco explorado.
+Posicionamento de sustentabilidade ganha valor com consumidoras conscientes (Gerações Y e Z).
+Parcerias com estudiôs de fotografia de casamento, buffets e igrejas para indicações de noivas.
+--- temp_ppt/ppt/slides/slide62.xml ---
+ANÁLISE SWOT
+Ameaças externas que podem prejudicar resultados.
+Threats |
+ AMEAÇAS
+
+Salões concorrentes com maior investimento em marketing digital e tráfego pago em Londrina.
+Tendência de noivas optarem por produtoras externas (no local do casamento) em vez do salão.
+Proliferação de profissionais autônomos e home studios com preços mais baixos.
+Dependência de profissionais qualificados - alto risco de turnover de especialistas.
+Instabilidade econômica pode reduzir frequência de serviços premium pelos clientes.
+--- temp_ppt/ppt/slides/slide63.xml ---
+
+CRITÉRIO
+ICP
+PÚBLICO SECUNDÁRIO
+PÚBLICO NÃO IDEAL
+Tipo de Cliente (Inspire)
+Noivas em preparação para o casamento
+Clientes recorrentes de beleza (classe B/C)
+Consumidoras ocasionais / primeira visita
+Faturamento Mensal
+R$5.000 a R$20.000+/mês familiar
+R$2.000 a R$5.000/mês familiar
+Até R$2.000/mês familiar
+Nível de Maturidade
+Freqüenta salões regularmente há anos
+Busca qualidade e está disposta a pagar mais
+Busca preço ou ainda não tem hábito de salão
+Necessidade Principal
+Experiência exclusiva + beleza para o grande dia
+Qualidade, fidelidade e bom custo-benefício
+Preço baixo e conveniência
+Produtos/Serviços Utilizados
+Pacote de noiva + Spa Day + serviços premium
+Manicure, pedicure, cabelo, estética
+Serviços avulsos e esporádicos
+Canal de Aquisição Ideal
+Busca ativa no Instagram, indicações e Google
+Tráfego pago, WhatsApp e boca a boca
+Panfleto, cupons e a proximidade
+SEGMENTAÇÃO DO ICP
+--- temp_ppt/ppt/slides/slide64.xml ---
+
+CRITÉRIO
+SEU CLIENTE
+Fábio Farias
+Studio Athena
+Blessed Instituto
+Claudia Ferraz
+PUV
+Único spa sustentável de Londrina especializado em noivas com experiência sensorial completa
+Salão premium tradicional referência em coloração e corte de alto padrão
+Especialista em noivas/formandas com salas climatizadas próximas a buffets
+Instituto completo para família toda: cabelo, unhas, estética e noivas
+Especialista exclusiva em penteado e maquiagem nupcial
+Público Alvo
+Mulheres 25-45 anos, classe B/C+, noivas e amantes de autocuidado
+Mulheres 30-55 anos, classe A/B, foco em cabelo premium
+Noivas, madrinhas, formandas e debutantes
+Família toda, todas as idades, classe B/C
+Noivas e madrinhas exclusivamente
+Capacidade Operacional
+Ter-Sáb 8h-20h, ~25 atendimentos/dia, 4 salas privativas
+Alta capacidade, múltiplos profissionais, espaço amplo
+Focado em eventos, agendamento por data
+Salão completo, alta rotatividade diária
+Atendimento pontual por evento
+Diferenciais
+Sustentabilidade, ritual de spa, hidromassagem, robe bordado, Projeto Frida
+Tradição, qualificação técnica elevada, ambiente requintado
+Localização estratégica perto de buffets, salas exclusivas climatizadas
+Avaliação 4,7, salão completo, preços acessíveis com qualidade
+Foco total em noivas, ambiente fotogênico, storytelling emocional
+Pontos Fracos
+Sem CRM, agendamento manual
+Baixa presença digital ativa, sem posicionamento sustentável
+Sem serviços de rotina, depende de sazonalidade de eventos
+Sem diferencial premium, concorre por preço
+Capacidade limitada, sem serviços de rotina ou spa
+Pontos Fortes
+Posicionamento único, experiência premium, fidelização alta, 11K seguidores
+Reputação sólida, indicação forte, cliente fiel de longa data
+Nicho bem definido, parceria natural com buffets e fotógrafos
+Boa reputação local, atende demanda ampla, preço competitivo
+Alta especialização, depoimentos emocionais, forte no boca a boca
+COMPARAÇÃO COM O MERCADO
+--- temp_ppt/ppt/slides/slide65.xml ---
+
+PERSONA 1
+ - Ana Paula
+
+
+
+Psicografia
+Personalidade:
+ 
+Mulher determinada e organizada, valoriza experiências exclusivas. Cuida muito da aparência e bem-estar. Pesquisa antes de decidir e é fiel a profissionais de confiança.
+Motivação Primária:
+ 
+Estar sempre bem cuidada, sentir-se confiante e linda - especialmente em momentos especiais como formatura, casamento e eventos.
+Sonhos e Ambições:
+ 
+Ter um salão de confiança que entenda seu estilo; ser reconhecida pela beleza e autoestima; alcançar a versão mais bonita e confiante de si mesma.
+ANA PAULA
+Idade
+:
+ 
+32 anos
+Cargo
+:
+ 
+Coordenadora / Noiva
+Formação
+:
+ Ensino 
+Superior
+Região
+:
+ Londrina - Gleba Palhano / Higienópolis
+Valores:
+Qualidade de vida
+Autocuidado e autoestima
+Confiança e exclusividade
+Problemas Enfrentados
+Dificuldade em encontrar salão de confiança para o dia do casamento; medo de não gostar do resultado; falta de tempo para agendamentos e tratamentos durante a semana.
+Comportamentos
+Pesquisa muito no Instagram antes de agendar
+Verifica avaliações no Google e indicações de amigas
+
+Valoriza experiência completa e exclusiva
+ 
+Aprecia ritual de acolhimento e ambiente agradável ao frequentar o salão.
+--- temp_ppt/ppt/slides/slide66.xml ---
+POSICIONAMENTO
+ESTRATÉGICO
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide67.xml ---
+COMPARATIVO
+DE SOLUÇÕES
+POSICIONAMENTO 
+ESTRATÉGICO
+--- temp_ppt/ppt/slides/slide68.xml ---
+
+Concorrente
+Classificação
+Presença Digital
+Diferenciais Competitivos
+Fábio Farias Salão
+DIRETO
+Seguidores: ~2.200 (Instagram)
+Engajamento: Baixo ~3%
+Postagens: ~670 posts
+Frequência: 8-10 posts/mês
+Referência tradicional em Londrina, ambiente requintado, alta qualificação em coloração e corte premium
+Studio Athena
+DIRETO
+Seguidores: ~5.000 (Instagram)
+Engajamento: Baixo ~4%
+Postagens: Regular
+Frequência: 10-15 posts/mês
+Salas exclusivas climatizadas para noivas próximas a buffets, atende formandas e debutantes
+Blessed Instituto
+DIRETO
+Seguidores: 200 (Instagram)
+Engajamento: 4,7 estrelas (232 avaliações no Cidade Oferta)
+Postagens: Regular
+Frequência: 12-15 posts/mês
+Salão completo para família toda, noivas, debutantes e formaturas. Fundado em 2020
+Claudia Ferraz Noivas
+DIRETO
+Seguidores: ~6000 (Instagram)
+Engajamento: Alto (foco noivas)
+Postagens: Foco total em noivas
+Frequência: 8-12 posts/mês
+Especialista exclusiva em penteado e maquiagem nupcial, ambiente decorado para fotos
+MP Beauty &amp; Bar
+INDIRETO
+Seguidores: 6.184 (Facebook)
+Engajamento: Baixo ~3%
+Postagens: Regular
+Frequência: 10-12 posts/mês
+Comandado por Paula Bonini, foco em maquiagem profissional, equipe em constante atualização
+COMO OS CONCORRENTES ESTÃO SE POSICIONANDO
+
+--- temp_ppt/ppt/slides/slide69.xml ---
+DEFINIÇÃO
+DA SUA PUV
+POSICIONAMENTO 
+ESTRATÉGICO
+--- temp_ppt/ppt/slides/slide70.xml ---
+O Inspire Beauty Spa é o único salão de Londrina com selo de sustentabilidade ambiental que une beleza, estética premium e bem-estar em uma experiência sensorial completa. 
+Especialistas em Dia de Noiva com salas exclusivas nomeadas (Ylang Ylang, Lavanda, Rosé), ritual de boas-vindas com escalda pés e chá terapêutico, e atendimento personalizado que faz cada cliente se sentir verdadeiramente especial. 
+Para quem não aceita o mediano no momento mais importante da vida.
+PUV 
+--- temp_ppt/ppt/slides/slide71.xml ---
+Reunião de Kick-Off
+Semana 1
+Pesquisa de Mercado
+Semana 2
+Diagnóstico de Mkt
+Semana 3
+Diagnóstico de Vendas
+Semana 4
+Plano de Mkt e Vendas
+Semana 5
+Pesquisa de Mercado
+Entendemos de forma mais aprofundada o seu mercado, concorrentes e o seu público.
+
+Posicionamento Estratégico
+Comparamos a sua solução com a de seus concorrentes, conseguindo uma visão clara de como cada player está no mercado.
+O QUE ACONTECEU ESSA SEMANA
+--- temp_ppt/ppt/slides/slide72.xml ---
+O QUE VAMOS VER NA SEMANA QUE VEM?
+Diagnóstico de Mídia Paga:
+Revisão das campanhas
+Revisão das ferramentas
+Diagnóstico de Criativos:
+Análise dos seus criativos de redes
+Análise do seus concorrentes
+Diagnóstico de Ambientes:
+Estudo de performance
+Diagnóstico de Copy
+--- temp_ppt/ppt/slides/slide73.xml ---
+MÍDIA PAGA
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+Hoje vamos aprofundar na análise das suas campanhas de mídia paga na sua estratégia orgânica.
+--- temp_ppt/ppt/slides/slide74.xml ---
+DIAGNÓSTICO
+DE MÍDIA PAGA
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide75.xml ---
+ANÁLISE DE
+RASTREAMENTO
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide76.xml ---
+Google Tag Manager (GTM)
+Status atual: GTM instalado (ID: GTM-NZN46ZG e GTM-WD63QZN4 identificados no site). Verificar se os eventos estão disparando corretamente para Google Analytics e Meta Pixel. Prioridade: configurar eventos de WhatsApp Click e agendamento.
+GTM: 2 containers ativos
+--- temp_ppt/ppt/slides/slide77.xml ---
+Meta Pixel / Meta Ads
+Status atual: 
+21
+ anúncios ativos no Meta Ads Library, rodando desde fevereiro de 2026. Campanhas ativas em Facebook, Instagram, WhatsApp e Messenger. Criativos focados em Dia de Noiva, Spa Day e pacotes especiais. Parceria com influencer 
+Gabriela Moraes
+ identificada em um dos anúncios ativos.
+
+--- temp_ppt/ppt/slides/slide78.xml ---
+Google Analytics / Google Ads
+Google Ads: 
+Uma campanha identificada
+
+
+
+
+
+
+Site utiliza WordPress + Elementor. 
+
+Google Analytics:
+ GA4 (G-GWNY L0YCFG) e UA (Universal Analytics) ambos instalados via GTM.
+
+Google Ads 
+AW-16765307170 ativo
+ com Remarketing
+. 
+
+Recomend
+a
+ção: ativar campanha de busca para &quot;dia de noiva Londrina&quot; e &quot;salão noivas Londrina&quot;.
+Site WordPres
+s
+
+
+
+
+
+
+
+--- temp_ppt/ppt/slides/slide79.xml ---
+Resumo do Rastreamento Digital
+O site possui boa estrutura de rastreamento: 
+2 containers GTM, GA4 ativos;
+Google Ads com remarketing com 1 anúncio de busca para noivas;
+Meta Ads com ~21 anúncios ativos. 
+
+Pontso críticos: 
+Tag do Google Ads com erro de configuração no GTM (deve disparar na inicialização);
+Instagram com token de API expirado.
+Sem pixel de conversão configurado para medir leads gerados pelos anúncios.
+--- temp_ppt/ppt/slides/slide80.xml ---
+
+
+
+
+
+
+
+
+Instalar e configurar Meta Pixel no site WordPress
+Reconectar Instagram ao site e ao Meta Business Suite
+PLANO DE AÇÃO
+Plano para estruturar rastreamento digital completo:
+Configurar eventos de conversão no GTM (WhatsApp click, formulário)
+Ativar Google Analytics 4 com metas de sessão e engajamento
+--- temp_ppt/ppt/slides/slide81.xml ---
+ANÁLISE DE
+META ADS
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide82.xml ---
+~21 anúncios ativos identificados no Meta Ads Library, rodando desde fevereiro de 2026. Campanhas em Facebook, Instagram, WhatsApp e Messenger. Criativos focados em Dia de Noiva, Spa Day e pacotes especiais. Parceria com influencer Gabriela Moraes identificada. 
+
+Ponto crítico:
+ sem pixel de conversão configurado — impossível medir custo por lead e otimizar campanhas.
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide83.xml ---
+ANÁLISE DE
+GOOGLE ADS
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide84.xml ---
+1 anúncio ativo rodando para o termo de noivas. 
+
+Remarketing ativo via GTM (AW-16765307170). 
+
+Ponto crítico: tag com erro de configuração — deve ser ajustada para disparar no trigger &quot;Initialization - All Pages&quot;. 
+
+Oportunidade: escalar para mais termos como &quot;spa day Londrina&quot; e &quot;salão de beleza Londrina&quot;.
+
+Grande oportunidade:
+ concorrentes também não dominam esse canal — janela aberta para capturar intenção de compra ativa.
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide85.xml ---
+ANÁLISE DE
+LINKEDIN ADS
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide86.xml ---
+Nenhuma presença ou campanha identificada no LinkedIn. Canal não relevante para o modelo de negócio do Inspire, que atende consumidoras finais (B2C). 
+Recomendação:
+ não investir neste canal. Exceção: usar LinkedIn apenas para posicionar a marca institucionalmente e atrair parcerias corporativas (empresas que queiram oferecer Spa Day como benefício para colaboradoras).
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide87.xml ---
+ANÁLISE 
+DE GTM
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide88.xml ---
+GTM instalado com 2 containers ativos: 
+GTM-NZN46ZG
+ e 
+GTM-WD63QZN4
+ (confirmado no código-fonte do site). Porém, sem eventos de conversão configurados — cliques no WhatsApp, agendamentos e visitas à página de noivas não estão sendo rastreados. 
+
+Ação urgente:
+ configurar eventos de conversão para mensurar resultado real das campanhas do Meta Ads.
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide89.xml ---
+ANÁLISE 
+DO ANALYTICS
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide90.xml ---
+Google Analytics provavelmente ativo via GTM, porém sem configuração de metas e eventos personalizados. Sem dados de taxa de conversão, origem de tráfego por campanha ou comportamento do usuário no site. Token do Instagram expirado impede rastreamento de tráfego vindo das redes sociais. 
+
+Recomendação:
+ configurar GA4 com metas de clique no WhatsApp, visita à página de noivas e tempo de sessão.
+MÍDIA 
+PAGA
+--- temp_ppt/ppt/slides/slide91.xml ---
+DIAGNÓSTICO
+DE CRIATIVOS
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide92.xml ---
+CRIATIVOS CAMPANHAS
+Inspire Beauty Spa possui ~21 anúncios ativos no Meta Ads Library rodando desde fevereiro de 2026. Campanhas em Facebook, Instagram, WhatsApp e Messenger com criativos focados em Dia de Noiva, Spa Day e pacotes especiais. Parceria com influencer Gabriela Moraes identificada em um dos anúncios.
+~21 anúncios ativos desde Fev/2026 — Noivas, Spa Day e pacotes especiais
+Sem pixel de conversão configurado — impossível medir custo por lead e otimizar campanhas
+--- temp_ppt/ppt/slides/slide93.xml ---
+CRIATIVOS CAMPEÕES
+(TRÁFEGO PAGO)
+
+
+
+--- temp_ppt/ppt/slides/slide94.xml ---
+CRIATIVOS ORGÂNICOS
+Criativos orgânicos no Instagram: fotos profissionais de antes/depois de cabelo e maquiagem, registros do Dia de Noiva com noivas felizes, fotos do espaço e ambiente, e raros bastidores de atendimento. Ponto de melhoria: poucos Reels, nenhum conteúdo educativo sobre sustentabilidade ou benefícios dos tratamentos.
+[FOTO] Antes/Depois de cabelo e maquiagem
+[FOTO] Registros de Dia de Noiva
+--- temp_ppt/ppt/slides/slide95.xml ---
+CRIATIVOS CAMPEÕES (ORGÂNICO)
+Fotos de Dia de Noiva com salas exclusivas (Ylang Ylang, Lavanda, Rosé)
+Registros de antes/depois de coloração, escova e maquiagem
+Imagens do ambiente: recepção, lavatório, área de café e espaço sustentável
+--- temp_ppt/ppt/slides/slide96.xml ---
+
+
+
+
+
+
+
+
+Otimizar criativos de anúncio para Meta Ads (noivas e Spa Day)
+Produzir 3 Reels/mês: antes/depois, ritual de spa e depoimento de noiva
+PLANO DE AÇÃO
+Ações para estruturar criativos e campanhas:
+Criar template de stories para depoimentos e avaliações diárias
+Desenvolver calendário editorial 90 dias com datas sazonais (Dia das Mães, casamentos)
+--- temp_ppt/ppt/slides/slide97.xml ---
+CRIATIVOS
+BENCHMARKING
+DIAGNÓSTICO DE 
+CRIATIVOS
+--- temp_ppt/ppt/slides/slide98.xml ---
+BENCHMARKING 1:
+STUDIO ATHENA
+Usa fotos de alta qualidade de noivas, com destaques de salas e ambiente. Frequência alta de posts (~15/mês). Foco em depoimentos de noivas. Ponto positivo a replicar: uso de stories interativos com enquetes e caixas de perguntas.
+Instagram: @studioathena_londrina - Salas climatizadas exclusivas para noivas
+--- temp_ppt/ppt/slides/slide99.xml ---
+BENCHMARKING 2:
+CLAUDIA FERRAZ NOIVAS
+Tem forte presença em grupos de casamento de Londrina. Usa muitos registros em vídeo do dia da noiva, com depoimentos emocionais. Estratégia de conteúdo focada em penteados elaborados e maquiagem para casamento.
+Instagram: @claudiaferraznoivas - Especialista em penteado e maquiagem nupcial
+--- temp_ppt/ppt/slides/slide100.xml ---
+DIAGNÓSTICO SOCIAL MEDIA
+DIAGNÓSTICO DE 
+CRIATIVOS
+--- temp_ppt/ppt/slides/slide101.xml ---
+VISÃO GERAL
+DO PERFIL
+@inspire.beautyspa | Instagram
+Seguidores: 11.000 | Seguindo: 869 | Posts: 1.487
+Bio: &quot;Inspiramos beleza e bem-estar. De terça-feira à sábado das 08:00 às 20:00 | Av Robert Koch, 715 - Londrina&quot;
+Links de agendamento por WhatsApp (Serviços e Noivas separados)
+Token de API expirado - feed não carrega no site
+Oportunidade: reativar integração e usar Instagram Shopping
+
+--- temp_ppt/ppt/slides/slide102.xml ---
+FIXADOS
+Fixados no Instagram @inspire.beautyspa:
+A ser analisado no acesso ao perfil. Recomendação: fixar 3 posts com maior engajamento (Dia de Noiva, Spa Day e espaço do salão) para capturar novos seguidores. Priorizar vídeos Reels com melhores resultados nos fixados.
+
+--- temp_ppt/ppt/slides/slide103.xml ---
+DESTAQUES
+Destaques nos Stories do Instagram @inspire.beautyspa:
+Recomendação de criação de Destaques: &quot;Noivas&quot; (portfólio de dias de noiva), &quot;Spa Day&quot; (pacotes e experiências), &quot;Espaço&quot; (tour pelo salão), &quot;Serviços&quot; (antes/depois), &quot;Depoimentos&quot; (prints de avaliações).
+
+--- temp_ppt/ppt/slides/slide104.xml ---
+BIO
+Bio atual: &quot;Inspiramos beleza e bem-estar. De terça-feira à sábado das 08:00 às 20:00 Av Robert Koch, 715 - Londrina&quot;
+Ponto positivo: Informações práticas presentes (horário, endereço)
+Ponto de melhoria: Não comunica o diferencial de noivas nem sustentabilidade
+Sugestão de nova bio: &quot;Salão premium &amp; spa sustentável em Londrina | Especialistas em Dia de Noiva | Experiência exclusiva de bem-estar | Ter-Sáb 8h-20h | Av. Robert Koch, 715&quot;
+
+--- temp_ppt/ppt/slides/slide105.xml ---
+POSTAGENS
+Total de posts: 1.487 (desde 2019)
+Frequência atual: estimada em 8-12 posts/mês
+Tipos de conteúdo predominantes: fotos de resultados (before/after de cabelo e maquiagem), Dia de Noiva, bastidores de atendimento
+Engajamento: Estimado em 2-4% (médio para segmento local)
+Falta: Reels regulares, depoimentos em vídeo, stories de rotina e conteúdo educativo sobre sustentabilidade
+
+--- temp_ppt/ppt/slides/slide106.xml ---
+
+
+
+
+
+
+
+
+Reconectar Instagram API ao site (token de acesso expirado)
+Criar calendário editorial: 4-5 posts/semana com before/after, depoimentos e bastidores
+PLANO DE AÇÃO
+Ações para elevar presença e engajamento no Instagram:
+Produzir 3-5 Reels/mês com técnicas, noivas e experiências Spa Day
+Atualizar bio e criar destaques: Noivas, Spa Day, Serviços, Espaço, Depoimentos
+--- temp_ppt/ppt/slides/slide107.xml ---
+BENCHMARKING SOCIAL MEDIA
+DIAGNÓSTICO DE 
+CRIATIVOS
+--- temp_ppt/ppt/slides/slide108.xml ---
+BENCHMARKING 1:
+BLESSED INST. BELEZA
+(@blessedlondrina_salao): Forte presença digital com mix de conteúdo de cabelo, unhas e noivas. Usa Reels frequentes com resultados impactantes. Boa frequência de stories com bastidores. Engajamento estimado em 3-4%. Ponto de atenção: não tem posicionamento sustentável - gap que o Inspire pode explorar.
+
+--- temp_ppt/ppt/slides/slide109.xml ---
+BENCHMARKING 1:
+CLAUDIA FERRAZ NOIVAS
+Indicadores: ~8K seguidores | Alta taxa de salvar posts
+(@claudiaferraznoivas): Segmentação altamente focada em noivas. Posts emocionais e com storytelling do grande dia. Parceria ativa com fotógrafos e buffets em Londrina. Estratégia que o Inspire deve espelhar para o nicho de noivas.
+Frequência: 8-12 posts/mês | Foco total em noivas
+
+--- temp_ppt/ppt/slides/slide110.xml ---
+ANÁLISE CRO
+DO SITE/LP
+DIAGNÓSTICO DE 
+CRIATIVOS
+--- temp_ppt/ppt/slides/slide111.xml ---
+
+DIAGNÓSTICO SITE/LP
+(PONTO ANALISADO)
+--- temp_ppt/ppt/slides/slide112.xml ---
+PONTOS POSITIVOS:
+
+Site responsivo e funcional no mobile
+Estrutura de navegação clara com páginas de Noivas, Serviços e Contato
+CTAs de WhatsApp em todos os serviços
+Galeria de imagens do espaço (recepção, cabelo, estética)
+Informações de contato e horário visíveis
+DIAGNÓSTICO SITE/LP - PONTO ANALISADO
+PONTOS DE MELHORIA:
+
+Instagram não carrega (token API expirado)
+Sem sistema de agendamento online integrado
+Sem depoimentos/avaliações de clientes visíveis
+Velocidade de carregamento pode ser melhorada (muitas imagens grandes)
+Sem pixel de rastreamento de conversões ativo
+--- temp_ppt/ppt/slides/slide113.xml ---
+
+
+
+
+
+
+
+
+Adicionar seção de depoimentos/avaliações do Google na home do site
+Criar landing page específica para noivas com botão de orçamento prominente
+PLANO DE AÇÃO
+Ações de CRO para aumentar conversão do site:
+Reconectar Instagram e adicionar botão de agendamento online
+Otimizar velocidade do site (compressão de imagens e configuração de cache)
+--- temp_ppt/ppt/slides/slide114.xml ---
+BENCHMARKING
+CRO DO SITE/LP
+DIAGNÓSTICO DE 
+CRIATIVOS
+--- temp_ppt/ppt/slides/slide115.xml ---
+PONTOS POSITIVOS E POSSÍVEIS APLICAÇÕES
+
+Site com menu claro e focado em serviços de noivas
+Destaques de Google Meu Negócio bem gerenciados
+CTAs claros de WhatsApp para orçamento
+Possível aplicação: destacar pacotes e avaliações no Inspire
+BENCH SITE/LP
+INSPIRE BEAUTY SPA
+PRINT DA PÁGINA
+--- temp_ppt/ppt/slides/slide116.xml ---
+PONTOS POSITIVOS E POSSÍVEIS APLICAÇÕES
+
+Site com menu claro e focado em serviços de noivas
+Destaques de Google Meu Negócio bem gerenciados
+CTAs claros de WhatsApp para orçamento
+Possível aplicação: destacar pacotes e avaliações no Inspire
+BENCH SITE/LP
+INSPIRE BEAUTY SPA
+PRINT DA PÁGINA
+PAGESPEED
+MOBILE
+PAGESPEED
+DESKTOP
+--- temp_ppt/ppt/slides/slide117.xml ---
+ENTREGÁVEIS
+PLANO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide118.xml ---
+MANUAL DE IDENTIDADE VISUAL
+Visualizar
+
+--- temp_ppt/ppt/slides/slide119.xml ---
+CRIATIVOS PARA ANÚNCIO
+
+
+
+--- temp_ppt/ppt/slides/slide120.xml ---
+LANDING PAGE
+
+Visualizar
+--- temp_ppt/ppt/slides/slide121.xml ---
+Reunião de Kick-Off
+Semana 1
+Pesquisa de Mercado
+Semana 2
+Diagnóstico de Mkt
+Semana 3
+Diagnóstico de Vendas
+Semana 4
+Plano de Mkt e Vendas
+Semana 5
+Diagnósticos de Marketing
+Você recebeu um mapa completo de como está seu marketing pago, orgânico e a sua concorrência.
+
+Materiais Personalizados
+Você recebeu um novo manual de identidade visual para sua logo, criativos para anunciar e uma sugestão de landing page criada de forma 100% personalizada para sua marca.
+O QUE ACONTECEU ESSA SEMANA
+--- temp_ppt/ppt/slides/slide122.xml ---
+O QUE VAMOS VER NA SEMANA QUE VEM?
+Diagnóstico Comercial:
+Cliente Oculto
+Etapas da Jornada do Lead
+Análise da Estrutura de Vendas:
+Recomendações para o Comercial
+Estudo de Organograma Comercial
+--- temp_ppt/ppt/slides/slide123.xml ---
+COMERCIAL
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+Hoje vamos aprofundar na análise do seu processo comercial, além de avaliar a efetividade do seu funil de vendas.
+--- temp_ppt/ppt/slides/slide124.xml ---
+DIAGNÓSTICO
+COMERCIAL
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide125.xml ---
+CLIENTE OCULTO
+DIAGNÓSTICO  
+COMERCIAL
+--- temp_ppt/ppt/slides/slide126.xml ---
+CLIENTE OCULTO - Inspire Beauty Spa:
+PRINT
+--- temp_ppt/ppt/slides/slide127.xml ---
+CLIENTE OCULTO - Inspire Beauty Spa:
+PRINT
+PRINT
+--- temp_ppt/ppt/slides/slide128.xml ---
+CLIENTE OCULTO - Inspire Beauty Spa:
+PRINT
+PRINT
+PRINT
+--- temp_ppt/ppt/slides/slide129.xml ---
+
+
+
+
+
+
+
+
+Criar roteiro padrão de atendimento via WhatsApp para noivas
+Treinar equipe de recepção em qualificação e fechamento de vendas
+PLANO DE AÇÃO
+Ações baseadas no diagnóstico do cliente oculto:
+Implementar follow-up estruturado com até 5 pontos de contato
+Criar proposta visual de pacotes de noiva para envio via WhatsApp
+--- temp_ppt/ppt/slides/slide130.xml ---
+ESTRUTURA TOPOLÓGICA
+DIAGNÓSTICO  
+COMERCIAL
+--- temp_ppt/ppt/slides/slide131.xml ---
+Topologia Atual
+Proprietária / Diretora
+Recepcão / Agendamento
+Cabeleireiras
+Estética / Spa
+Manicures / Pedicures
+Maquiadoras
+Financeiro
+Marketing / Redes Sociais
+Noivas (coordenação)
+--- temp_ppt/ppt/slides/slide132.xml ---
+OBSERVAÇÕES
+Observações sobre a estrutura atual:
+- Operação é centralizada na proprietária Izabelli Santos
+- Estrutura enxuta com profissionais especializados por área (cabeleireiro, esteticista, manicure, maquiadora)
+- Recepção provavelmente acumula funções de atendimento e agendamento
+- Sem estrutura comercial dedicada (SDR/Closer) para captura e conversão de noivas
+- Recomendação: criar cargo de Coordenadora de Noivas para gerenciar leads e follow-up
+--- temp_ppt/ppt/slides/slide133.xml ---
+Estratégico
+Perspectiva ampla dos objetivos, foco no longo prazo
+Tático
+Iniciativas diretas e específicas, foco no médio prazo
+Operacional
+Atividades do dia a dia, foco no curto prazo
+NÍVEIS DE GESTÃO
+--- temp_ppt/ppt/slides/slide134.xml ---
+H1 - ESTRUTURA COMERCIAL RECOMENDADA
+Estrutura H1
+H1 = 6 meses
+H2 = 1 ano
+H3 = 2 anos +
+Proprietária/
+Diretora
+Cabeleireira
+Esteticista
+Maquiadora
+Recepcionista
+Premissa
+Izabelli assume papel comercial de noivas
+Equipe atual pode absorver funções comerciais no curto prazo
+Foco em Noivas
++Spa Day
+Justificativa Estratégica
+Recepcionista recebe treinamento em vendas
+Custo baixo de implementação com ferramentas gratuitas
+Foco Noivas + Rotina
+Meta: R$180K/mês
+Manicure
+--- temp_ppt/ppt/slides/slide135.xml ---
+H2 - ESTRUTURA COMERCIAL RECOMENDADA
+Premissa
+Contratar Coordenadora de Noivas dedicada
+Coordenadora libera Izabelli para gestão e estratégia
+Foco em Noivas
++Spa Day
+Justificativa Estratégica
+Implementar sistema de agendamento online
+Volume de leads demanda profissional dedicada
+Escala Marketing
+Meta: R$220K/mês
+Proprietária/
+Diretora
+Cabeleireira
+Esteticista
+Maquiadora
+Manicure
+Cabeleireira
+Esteticista
+Maquiadora
+Recepcionista
+Manicure
+Coord. Noivas
+--- temp_ppt/ppt/slides/slide136.xml ---
+H3 - ESTRUTURA COMERCIAL RECOMENDADA
+Premissa
+2 equipes 
+completas: Coordenadora + 
+profissionais
+Marca consolidada permite escalar com menor custo
+Foco em Noivas
++Spa Day
+Justificativa Estratégica
+Franquear modelo Inspire para outras cidades
+Modelo replicável de experiência premium e sustentabilidade
+Expansão / Franquia
+Meta: R$300K/mês+
+Proprietária/
+Diretora
+Cabeleireira
+Esteticista
+Maquiadora
+Recepcionista
+Manicure
+Gte. Operacional
+Coord. Noivas
+Coord. Noivas
+Cabeleireira
+Esteticista
+Maquiadora
+Manicure
+--- temp_ppt/ppt/slides/slide137.xml ---
+
+Sem processo estruturado de follow-up de noivas
+             
+             
+Agendamento manual pelo WhatsApp gera confusões
+Sem programa de fidelidade ou clube de clientes
+             
+Ausência de métricas comerciais e controle de conversão
+DORES IDENTIFICADAS
+Diagnóstico Comercial
+--- temp_ppt/ppt/slides/slide138.xml ---
+Gestão de Leads de Noivas
+DIAGNÓSTICO  
+COMERCIAL
+--- temp_ppt/ppt/slides/slide139.xml ---
+Gestão de Noivas: Processo de contato não estruturado
+Atualmente o atendimento de noivas é feito 100% por WhatsApp sem fluxo padronizado. Não há CRM ou cadastro de prospects. Leads quentes perdem-se sem follow-up estruturado. Estimativa: 30-40% dos contatos iniciais não convertem por falta de acompanhamento. Oportunidade: implementar fluxo de cadência com 5 pontos de contato + proposta formal.
+--- temp_ppt/ppt/slides/slide140.xml ---
+
+
+
+
+
+
+
+
+Criar fluxo de cadência para leads de noivas (5 pontos de contato)
+Implementar CRM simples (HubSpot Free) para gestão de leads
+PLANO DE AÇÃO
+Ações comerciais prioritárias:
+Criar proposta visual profissional para pacotes de noiva
+Treinar recepcionista em roteiro de abordagem e qualificação de noivas
+--- temp_ppt/ppt/slides/slide141.xml ---
+ESCOPO COMERCIAL
+DIAGNÓSTICO  
+COMERCIAL
+--- temp_ppt/ppt/slides/slide142.xml ---
+CHA - SDR
+Competências:
+
+Triagem e qualificação de leads de noivas via WhatsApp
+Gestão de agenda e agendamentos do salão
+Conhecimento dos pacotes de noiva e serviços do Inspire
+Jornada da noiva desde o primeiro contato até o dia do evento
+
+Habilidades:
+
+Comunicação calorosa, empática e organizada
+Escuta ativa para entender o sonho da noiva
+Gerenciamento de múltiplos agendamentos simultâneos
+Uso de CRM e WhatsApp Business
+Atitudes:
+
+Orientação para resultados e mentalidade de growth.
+Proatividade.
+Empatia.
+Flexibilidade.
+Resiliência.
+Visão Estratégica.
+Assumir responsabilidades.
+--- temp_ppt/ppt/slides/slide143.xml ---
+Taxa de oportunidades geradas:
+
+O que medir:
+ % de leads que evoluem para visita ou orçamento de noiva
+Como medir:
+ CRM ou planilha de controle
+Fórmula:
+ Total de orçamentos enviados ÷ Total de conexões x 100
+Meta:
+ 30% a 50% no início, evoluindo conforme roteiro de abordagem
+
+KPI - SDR
+Taxa de Conexão:
+
+O que medir:
+ % de leads que respondem ao primeiro contato via WhatsApp
+Como medir:
+ Controle manual ou CRM
+Fórmula:
+ Total de respostas ÷ Total de leads abordados x 100
+Meta:
+ 60% a 80% (leads quentes que já vieram por anúncio ou indicação)
+--- temp_ppt/ppt/slides/slide144.xml ---
+CHA - Closer
+Competências:
+
+Apresentação e fechamento dos pacotes de noiva (Master, Premium, Basic, Rosé)
+Gestão do ciclo de decisão da noiva (2 a 8 semanas)
+Empatia comercial para converter sem pressionar
+Análise de métricas de conversão por pacote
+
+Habilidades:
+
+Apresentação visual dos pacotes via WhatsApp ou presencialmente
+Gerenciamento de objeções (preço, data, concorrência)
+Elaboração de proposta comercial personalizada por noiva
+Relacionamento pós-venda para indicações de madrinhas
+Atitudes:
+
+Orientação para resultados e mentalidade de growth.
+Proatividade.
+Empatia.
+Flexibilidade.
+Resiliência.
+Visão Estratégica.
+Assumir responsabilidades.
+--- temp_ppt/ppt/slides/slide145.xml ---
+KPI - Diretor Comercial
+Revenue em Monetização:
+
+O que medir:
+ Receita gerada por clientes recorrentes e recompras de pacotes
+Como medir:
+ Controle financeiro por cliente no CRM
+Fórmula:
+ Receita total de clientes recorrentes ÷ Receita total x 100
+Meta:
+ 40% da receita mensal oriunda de clientes fidelizadas
+Eficiência de funil:
+
+O que medir:
+ % de avanço entre etapas — lead → orçamento → fechamento
+Como medir:
+ CRM e planilha de controle semanal
+Fórmula:
+ Leads fechados ÷ Leads abordados x 100
+Meta:
+ Taxa de fechamento de 25% a 35% para noivas
+
+--- temp_ppt/ppt/slides/slide146.xml ---
+KPI - Diretor Comercial
+Meta de Receita Total (Total Revenue)
+
+O que medir:
+ Atingimento da meta mensal de faturamento
+Como medir:
+ DRE mensal comparado à meta
+Fórmula:
+ Receita gerada ÷ Meta de receita x 100
+Meta:
+ R$ 150.000/mês (atual) → R$ 180.000/mês (6 meses) → R$ 220.000/mês (12 meses)
+Receita por Segmento (Revenue by Market Segment)
+
+O que medir:
+ Contribuição de cada categoria para a receita total
+Como medir:
+ Relatório financeiro segmentado por serviço
+Fórmula:
+ Receita por segmento ÷ Receita total x 100
+Meta:
+ 35% Noivas | 25% Cabelo | 20% Estética/Spa | 20% Manicure/Outros
+--- temp_ppt/ppt/slides/slide147.xml ---
+ROTINAS
+DE GESTÃO
+DIAGNÓSTICO  
+COMERCIAL
+--- temp_ppt/ppt/slides/slide148.xml ---
+Rotinas de gestão
+Coaching técnico | 30 minutos
+Objetivo:
+ Acompanhamento do desempenho individual de atendimento e vendas
+Frequência:
+ Semanal
+Agenda:
+ Feedback sobre atendimentos da semana, técnicas de abordagem de noivas, qualidade do serviço prestado e metas de agendamento
+Participantes:
+ Izabelli (proprietária) e Coordenadora de Noivas
+
+1 on 1 | 30 minutos
+Objetivo:
+ Acompanhamento individual de cada profissional
+Frequência:
+ Mensal
+Agenda:
+ Discussão de desempenho, metas de atendimentos, desenvolvimento técnico e satisfação da equipe
+Participantes:
+ Izabelli e cada profissional individualmente (cabeleireira, esteticista, manicure)
+Monthly Gestão | 1 hora
+Objetivo:
+ Revisão e alinhamento estratégico do salão
+Frequência:
+ Mensal
+Agenda:
+ Análise de faturamento vs meta, taxa de conversão de noivas, ocupação da agenda, revisão de campanhas do Meta Ads e prioridades do mês
+Participantes:
+ Izabelli e lideranças de cada área
+
+Review Quarter | 1 hora
+Objetivo:
+ Análise geral de todas as áreas no trimestre
+Frequência:
+ Trimestral
+Agenda:
+ Resultados financeiros, análise de noivas atendidas, ajuste de preços e pacotes, estratégia de marketing e metas para o próximo trimestre
+Participantes:
+ Izabelli e toda a equipe
+--- temp_ppt/ppt/slides/slide149.xml ---
+DEFINIÇÃO
+DO FUNIL
+DIAGNÓSTICO  
+COMERCIAL
+--- temp_ppt/ppt/slides/slide150.xml ---
+Marketing (Meta Ads + Instagram + Google)
+Vendas
+Vendas
+MQL - Lead qualificado (interesse confirmado)
+Proposta enviada (pacote + preço + data)
+Negociação (objeção de preço ou data)
+Vendas
+SQL - Lead pronto para fechar
+Lead (WhatsApp / DM / Indicação)
+--- temp_ppt/ppt/slides/slide151.xml ---
+MQL - Marketing Qualified Lead
+Lead entrou em contato via WhatsApp, Instagram ou indicação demonstrando interesse em serviços do Inspire e teve
+essa demanda confirmada pela recepcionista/coordenadora de noivas.
+
+
+Informações a coletar no primeiro contato:
+Nome completo e data do casamento (se noiva)
+Serviço de interesse (Noiva / Spa Day / Rotina)
+Data e horário pretendidos
+Quantidade de pessoas (noiva + madrinhas + convidadas)
+Como conheceu o Inspire? (Instagram / indicação / Google)
+
+
+Essa informação pode ser preenchida diretamente em um campo de seleção no formulário de aquisição. Ou seja, o SDR inicia o atendimento com esses dados em mãos para confirmação.
+
+--- temp_ppt/ppt/slides/slide152.xml ---
+SQL - Sales Qualified Lead
+Lead engajou no atendimento e a coordenadora/recepcionista mapeou as seguintes informações:
+Entendimento do pacote ideal (Noiva Master, Premium, Basic ou Rosé)
+Data confirmada e disponibilidade na agenda do Inspire
+Orçamento aprovado e forma de pagamento definida
+Prazo para decisão (noivas decidem em 2 a 8 semanas em média)
+
+Observações:
+A coordenadora deve registrar todas as informações no CRM e agendar a visita presencial ou enviar a proposta visual pelo WhatsApp.
+O follow-up deve ser feito em até 24h após o envio da proposta, com alinhamento de expectativas sobre o pacote escolhido.
+
+--- temp_ppt/ppt/slides/slide153.xml ---
+80 | Leads/mês
+48 | MQL (60%)
+34 | Conexão (70%)
+55% - 65%
+35%
+
+
+20 | SQL (60%)
+14 | Negociações (70%)
+7 | Vendas (50%)
+
+
+
+45% - 60%
+55% - 75%
+40% - 30%
+Variáveis e Hipóteses:
+
+Maioria dos leads vem por indicação e Instagram orgânico
+Noivas têm ciclo de decisão de 2 a 8 semanas
+Meta Ads ativo acelera captação e reduz dependência de indicação
+Taxa de conversão melhora com proposta visual e follow-up estruturado
+CONTROLE DE MÉTRICAS
+Diagnóstico Comercial:
+
+Atualmente o Inspire não possui controle formal de leads. Todo contato entra via WhatsApp e Instagram sem registro. Sem CRM, não é possível saber quantos leads chegam por mês, qual a taxa de conversão de noivas ou qual canal gera mais resultado. Os números ao lado são projeções baseadas em estimativas do mercado local.
+--- temp_ppt/ppt/slides/slide154.xml ---
+
+
+1. Conexão
+2. Qualificação
+3. Proposta
+4. Follow Up
+5. Ganho ✓
+Perda ✗
+Lead entra via WhatsApp, Instagram ou indicação
+
+
+
+
+
+
+Assinatura do contrato ou confirmação via WhatsApp + sinal pago
+
+
+
+
+
+
+Envio de proposta visual do pacote + follow-up em 24h
+
+
+
+
+
+
+Etapas da jornada da noiva/cliente (CRM - HubSpot Free)
+--- temp_ppt/ppt/slides/slide155.xml ---
+PREMISSAS COMERCIAIS
+DIAGNÓSTICO  
+COMERCIAL
+--- temp_ppt/ppt/slides/slide156.xml ---
+PREMISSAS PARA O ATENDIMENTO COMERCIAL
+Atendimento sempre caloroso, empático e acolhedor — a noiva está em um momento emocional intenso
+Chamar a cliente pelo nome sempre — nunca &quot;amorzinha&quot;, &quot;linda&quot; ou termos genéricos
+Atenção à ortografia e gramática em todas as mensagens via WhatsApp
+Personalizar o atendimento: noiva tem necessidades diferentes de cliente de rotina ou Spa Day
+Usar WhatsApp Business com perfil comercial, foto do espaço e descrição do Inspire
+Priorizar atendimento de noivas em horários comerciais — evitar mensagens após 20h
+Não enviar informações em massa — conduzir cada atendimento individualmente
+Evitar sequência de muitas mensagens seguidas — aguardar resposta antes de continuar
+Enviar proposta visual (PDF ou imagem) com foto do espaço, pacotes e valores
+ — nunca enviar apenas texto sem apoio visual ao apresentar pacotes de noiva
+Fazer follow-up em até 24h após envio da proposta — sem follow-up, noivas esquecem ou escolhem outro salão
+Evitar áudios longos — se necessário, pedir permissão e ser objetivo (máximo 1 minuto)
+ - caso essa estratégia seja necessária, solicitar a permissão antes do envio e prezar pelo menor tempo de áudio possível, prezando a agilidade e a didática
+Utilizar WhatsApp com conta comercial, imagem de perfil visível para todos, descrição estratégica, e nome
+ que gere fácil identificação
+Sempre 
+Registrar todas as tratativas no CRM (HubSpot Free) para não perder histórico
+Para noivas com dúvidas, sugerir visita presencial ao espaço — ver o ambiente converte mais
+ sobre como o serviço é realizado e para apresentação de proposta, principalmente para leads com nível baixo de consciência.
+--- temp_ppt/ppt/slides/slide157.xml ---
+MAPEAMENTO DO FLUXO COMERCIAL (BPMN)
+Centralizar em um framework como os canais geradores de receita se conectam com as ferramentas, pessoas e setores durante a jornada do lead.
+
+Fluxo a mapear: Lead → Qualificação → Proposta → Follow-up → Fechamento → Agendamento → Dia do serviço → Pós-atendimento
+DOCUMENTAÇÃO E BASE DE CONHECIMENTO
+Centralizar no Notion: roteiro de atendimento de noivas, scripts de WhatsApp, tabela de pacotes e preços, histórico de clientes, processos de agendamento e pós-venda.
+
+Além de acelerar o processo de aprendizagem de novos vendedores na parte técnica e na parte cultural, permite a melhoria contínua dos processos.
+
+Ferramenta recomendada: Notion (gratuito para equipes pequenas)
+--- temp_ppt/ppt/slides/slide158.xml ---
+O QUE ANALISAR NO COMERCIAL - INSPIRE?
+Indicadores
+Leads novos (WhatsApp + Instagram + indicação)
+Conexões novas (leads que responderam)
+% Taxa de conexão
+Follow-ups realizados (tentativas pós-proposta)
+Respostas recebidas após follow-up
+% Taxa de Conexão
+MQLs (leads que demonstraram interesse real)
+% Taxa de MQL
+SQLs (leads prontos para fechar — data + orçamento confirmados)
+% Taxa MQL X SQL
+Propostas enviadas (PDF ou imagem de pacotes)
+% Taxa de propostas enviadas
+Negociações em andamento (objeção de preço ou data)
+% Taxa de Negociações
+Vendas
+% Taxa de conversão
+Descartados (data indisponível, fora do perfil ou sem resposta)
+No show (agendou visita e não compareceu)
+% Taxa de descartados
+META vs. REALIZADO — comparar mensalmente no dashboard
+--- temp_ppt/ppt/slides/slide159.xml ---
+COMO CONSTRUIR O FLUXO DE CADÊNCIA?
+Determine a quantidade de follows, uma boa prática é iniciar com 5 pontos de contatos.
+Faça várias versões de follow-up e abordagens para serem testadas em paralelo.
+Diversifique os canais com propensão de conexão com os leads como whatsapp e ligação
+Diversifique os horários das tentativas de contato
+Teste por pelo menos 15 dias metrificando a quantidade de respostas de cada follow e abordagem melhores horários para ligação e envio em massa de mensagens.
+
+Bônus: como construir um bom follow-up por WhatsApp
+Construa uma Headline.
+Insira um conteúdo breve e relevante ligado a Headline.
+Faça uma chamada para ação.
+--- temp_ppt/ppt/slides/slide160.xml ---
+
+MENSURAÇÃO DE RESULTADOS
+Dashboard Mensal de KPIs — Inspire Beauty Spa
+Indicadores a acompanhar todo mês:
+→ Leads totais por canal (WhatsApp / Instagram / indicação / Meta Ads)
+→ Leads de noivas vs. clientes de rotina vs. Spa Day
+→ Taxa de conversão de noivas (meta: 25% a 35%)
+→ Atendimentos realizados por dia e ocupação da agenda (%)
+→ Ticket médio por categoria (Noiva / Spa Day / Rotina)
+→ Faturamento total vs. meta mensal (atual: R$150K)
+→ NPS e avaliações Google (meta: manter acima de 4,8⭐)
+→ Taxa de retorno de clientes (meta: 60% voltam em até 60 dias)
+--- temp_ppt/ppt/slides/slide161.xml ---
+STACK DE
+FERRAMENTAS
+DIAGNÓSTICO  
+COMERCIAL
+--- temp_ppt/ppt/slides/slide162.xml ---
+Stack de Ferramentas
+WhatsApp Business (agendamento e comunicação com clientes) | Instagram (rede social principal - 11K seguidores) | WordPress + Elementor (site) | Google Tag Manager (2 containers) | Google Meu Negócio | Sem CRM | Sem sistema de agendamento online
+Recomendados: Booksy ou Trinks (agendamento), HubSpot Free (CRM), RD Station Light (e-mail marketing), Meta Business Suite (anúncios).
+Stack recomendado: Booksy (agendamento) + HubSpot Free (CRM) + Meta Business Suite (anúncios) + Google Analytics 4 (mensuração)
+--- temp_ppt/ppt/slides/slide163.xml ---
+Reunião de Kick-Off
+Semana 1
+Pesquisa de Mercado
+Semana 2
+Diagnóstico de Mkt
+Semana 3
+Diagnóstico de Vendas
+Semana 4
+Plano de Mkt e Vendas
+Semana 5
+Compreensão do Funil de Vendas
+Você entendeu a fundo como funciona o funil e viu na prática como ele realmente está dentro da sua empresa
+
+Aprofundamento do Escopo Comercial
+Viu as diferentes funções comerciais que existem e o que cada uma é responsável dentro de um sistema de vendas eficiente
+O QUE ACONTECEU ESSA SEMANA
+--- temp_ppt/ppt/slides/slide164.xml ---
+O QUE VAMOS VER NA SEMANA QUE VEM?
+Modelo de GTM:
+Qual a melhor estratégia para sua empresa?
+Guia de Posicionamento:
+Seu Manual de Copy Personalizado
+Proposta de Operacionalização:
+Saiba como a V4 pode e vai te ajudar a ter e executar tudo que você ficou sabendo ao longo do Diagnóstico
+--- temp_ppt/ppt/slides/slide165.xml ---
+CORRIDA INICIADA
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+Agora você sabe tudo que precisa ter e fazer para começar a correr atrás dos resultados que sua empresa precisa.
+
+Mas você não está sozinho, vamos revisar tudo que passou até aqui e te preparar para ganhar essa corrida do mercado!
+--- temp_ppt/ppt/slides/slide166.xml ---
+SUA ESTRATÉGIA 
+DE MARKETING 
+E VENDAS
+DIAGNÓSTICO E PLANEJAMENTO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide167.xml ---
+Reunião de Kick-Off
+Semana 1
+Pesquisa de Mercado
+Semana 2
+Diagnóstico de Mkt
+Semana 3
+Diagnóstico de Vendas
+Semana 4
+Plano de Mkt e Vendas
+Semana 5
+PESQUISA DE MERCADO COMPLETA
+
+ANÁLISE DOS CONCORRENTES
+
+DIAGNÓSTICO DE MARKETING
+
+DIAGNÓSTICO DE VENDAS
+TUDO QUE VOCÊ APRENDEU NO PROJETO
+--- temp_ppt/ppt/slides/slide168.xml ---
+PESQUISA DE MERCADO
+Análise TAM/SAM/SOM do mercado de beleza
+Concorrentes mapeados em Londrina
+Persona Ana Paula - noiva 32 anos Londrina
+Submercados: Noivas, Spa, Estética, Cabelo
+--- temp_ppt/ppt/slides/slide169.xml ---
+PLANO DE AÇÃO - PESQUISA DE MERCADO
+DIAGNÓSTICO
+Mercado de beleza/spa em forte crescimento no Brasil (12,7% ao ano)
+Londrina tem +2.000 casamentos/ano - nicho de noivas altamente estratégico
+Concorrentes principais: Fábio Farias, Studio Athena, Blessed, Claudia Ferraz
+Inspire tem posicionamento único: sustentabilidade + experiência premium
+Instagram com 11K seguidores mas token API expirado - oportunidade perdida
+Meta Ads ativo com ~21 anúncios rodando desde fev/2026 - sem Google Ads ativo
+Público-alvo principal: mulheres B/C+ 25-45 anos, noivas e amantes de autocuidado
+PLANO DE AÇÃO
+Criar landing page específica para noivas com SEO local
+Escalar Meta Ads com pixel de conversão e funil pós-clique estruturado
+Estruturar parcerias com buffets, fotógrafos e igrejas de casamento
+Implementar programa de indicação para clientes recorrentes
+Reconectar Instagram ao site e ativar Instagram Shopping
+Criar campanha Google Ads para busca ativa de noivas
+Desenvolver conteúdo de autoridade sobre beleza sustentável
+--- temp_ppt/ppt/slides/slide170.xml ---
+DIAGNÓSTICO DE MARKETING
+Instagram @inspire.beautyspa - 11K seguidores
+Meta Ads Library - 21 anúncios ativos
+GTM instalado - 2 containers no site
+Google Meu Negócio - presença local ativa
+--- temp_ppt/ppt/slides/slide171.xml ---
+PLANO DE AÇÃO - DIAGNÓSTICO DE MARKETING
+DIAGNÓSTICO
+Site sem integração com Instagram (token expirado)
+Meta Ads ativo (~21 anúncios) mas sem pixel de conversão configurado e sem funil pós-clique
+Google Tag Manager com 2 containers mas sem eventos configurados
+Perfil Instagram com bom volume de posts mas baixa frequência de Reels
+Bio do Instagram não comunica diferencial de noivas
+Sem depoimentos visíveis no site
+Concorrentes mais presentes no Google Ads
+PLANO DE AÇÃO
+Reconectar Instagram e configurar pixel de rastreamento
+Criar campanha Meta Ads segmentada para noivas (Londrina + interesse em casamento)
+Configurar eventos de conversão no GTM (WhatsApp click, agendamento)
+Produzir 3-5 Reels/mês com antes/depois e bastidores
+Atualizar bio do Instagram para comunicar diferencial premium
+Adicionar widget de avaliações do Google na home do site
+Criar campanha Google Ads para busca &quot;dia de noiva Londrina&quot;
+--- temp_ppt/ppt/slides/slide172.xml ---
+DIAGNÓSTICO COMERCIAL
+Topologia da equipe atual do Inspire
+Funil de vendas noivas - sem CRM estruturado
+Diagnóstico: 100% agendamento manual WhatsApp
+Dores identificadas: sem follow-up e sem fidelidade
+--- temp_ppt/ppt/slides/slide173.xml ---
+PLANO DE AÇÃO - DIAGNÓSTICO COMERCIAL
+DIAGNÓSTICO
+Agendamento 100% manual via WhatsApp sem sistema
+Sem funil de vendas estruturado para noivas
+Sem CRM ou histórico de clientes organizado
+Ausência de follow-up estruturado pós-contato
+Sem métricas de conversão e taxa de retorno
+Sem programa de fidelidade ou clube de clientes
+Sem processo formal de indicações e parcerias
+PLANO DE AÇÃO
+Implementar sistema de agendamento online (Booksy/Trinks)
+Criar fluxo de 5 pontos de contato para leads de noivas
+Implantar CRM simples (HubSpot Free) para gestão de leads
+Criar proposta visual profissional para pacotes de noiva
+Estruturar Dashboard mensal com KPIs comerciais
+Lançar programa de indicação com benefício para clientes
+Criar parcerias formais com fornecedores de casamento em Londrina
+--- temp_ppt/ppt/slides/slide174.xml ---
+ANÁLISE COMPETITIVA
+Fábio Farias - presença digital e diferenciais
+Studio Athena - especialista noivas Londrina
+Blessed Instituto - portfólio completo
+Claudia Ferraz - foco exclusivo em noivas
+--- temp_ppt/ppt/slides/slide175.xml ---
+PLANO DE AÇÃO - ANÁLISE COMPETITIVA
+DIAGNÓSTICO
+Fábio Farias e Studio Athena têm maior presença digital
+Concorrentes investem em Google Ads para capturar buscas ativas
+Inspire tem diferencial único de sustentabilidade ainda pouco comunicado
+Ritual de boas-vindas e salas nomeadas são diferenciais não explorados
+Oportunidade de conquistar mercado de noivas com LP dedicada
+Nenhum concorrente se posiciona fortemente em Spa Day e bem-estar
+Mercado local sem player dominante no nicho premium sustentável
+PLANO DE AÇÃO
+Criar campanha de posicionamento &quot;Inspire: o único spa sustentável de Londrina&quot;
+Ativar Google Ads antes dos concorrentes para termos de noivas
+Criar conteúdo sobre sustentabilidade para se diferenciar no Instagram
+Desenvolver parceria exclusiva com 2-3 fotógrafos de casamento top de Londrina
+Lançar pacote de Spa Day como presente (gift card) para presente do Dia das Mães
+Criar página de avaliações no Google e incentivar clientes a avaliar
+Mapear e abordar proativamente noivas que seguem fotógrafos no Instagram
+--- temp_ppt/ppt/slides/slide176.xml ---
+ENTREGÁVEL
+PLANO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide177.xml ---
+MANUAL DE COPY
+O manual de copy é um documento de pesquisa feito exclusivamente para atender as necessidades da sua empresa. Nele você encontra:
+PUV
+Posicionamento
+Análise SWOT
+Estudo de Mercado
+Comunicação da Marca
+Voz da Marca
+Tom de Voz e Adaptação Modular
+Linguagem da Marca
+--- temp_ppt/ppt/slides/slide178.xml ---
+GTM E DRAWFLOW
+PLANO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide179.xml ---
+GO TO MARKETING
+MLG
+ (Media-Led Growth)
+POR QUÊ?
+Negócio baseado em confiança e indicação pessoal
+Alta dependência do Instagram e recomendações de clientes
+Público feminino altamente engajado em redes sociais
+Ticket alto justifica investimento em mídia paga
+Noivas pesquisam ativamente fornecedores online antes de decidir
+GTMs Potenciais:
+
+Partner-Led
+Parcerias com buffets, fotógrafos e igrejas de casamento em Londrina
+
+Community-Led
+Grupos de noivas no WhatsApp e Instagram como canal de indicação
+
+Founder-Led
+Izabelli como rosto e autoridade da marca no digital
+GTM COMPLEMENTAR:
+
+Marketing-Led 
+Tráfego pago no Meta e Google para Spa Day, Noivas e pacotes sazonais
+Com base no contexto da sua empresa, operação e como os clientes são adquiridos, 
+é possível afirmar com clareza:
+--- temp_ppt/ppt/slides/slide180.xml ---
+
+DRAWFLOW
+MODELOS
+--- temp_ppt/ppt/slides/slide181.xml ---
+FORECAST
+PROJEÇÃO
+PLANO DE 
+MARKETING E VENDAS
+--- temp_ppt/ppt/slides/slide182.xml ---
+
+FORECAST/PROJEÇÃO
+Ao lado você tem uma projeção realista de quantos leads/oportunidades podemos alcançar e qual a taxa de conversão em vendas que estimamos ser possível, com base em dados e casos semelhantes.
+
+Com o investimento planejado para os próximos 3 meses junto à V4, existe potencial para chegarmos nesses números — e vamos trabalhar para maximizar cada etapa do funil.
+
+Assim que aprovar a proposta, iniciamos a execução e os primeiros testes em até 7 dias, para validar e ajustar as estratégias o mais rápido possível.
+Planilha de Forecast - solicitar à V4 Company após aprovação da proposta
+--- temp_ppt/ppt/slides/slide183.xml ---
+WELCOME TO V4 COMPANY
+
+OBRIGADO POR 
+ABRIR AS PORTAS PARA A V4 COMPANY

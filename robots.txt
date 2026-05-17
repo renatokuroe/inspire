@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://judithkuroe.com.br/sitemap.xml
+Sitemap: https://inspirebeautyspa.com.br/sitemap.xml

@@ -33,7 +33,7 @@ homeLinks.forEach((link) => {
   });
 });
 
-// Modal de aviso para produtos Rigolim
+// Modal de aviso para colecao Inspire
 const productsModal = document.querySelector("[data-products-modal]");
 const openProductsButtons = document.querySelectorAll("[data-open-products]");
 const closeProductsButton = productsModal?.querySelector(".modal-close");
@@ -224,10 +224,10 @@ if (trainingSlider) {
 }
 
 // Widget flutuante de chat integrado com n8n
-const CHAT_WEBHOOK_URL = "https://n8n-panel.aria.social.br/webhook/judith-chat";
+const CHAT_WEBHOOK_URL = "https://n8n-panel.aria.social.br/webhook/inspire-chat";
 
 const getChatSessionId = () => {
-  const key = "judith-chat-session";
+  const key = "inspire-chat-session";
   let id = window.localStorage.getItem(key);
   if (!id) {
     id = crypto.randomUUID();
@@ -256,7 +256,7 @@ const sendMessageToN8n = async (message) => {
     data.reply ||
     data.output ||
     data.text ||
-    "Nao consegui responder agora. Tente novamente em instantes."
+    "Não consegui responder agora. Tente novamente em instantes."
   );
 };
 
@@ -346,7 +346,7 @@ if (chatWidget) {
       appendChatMessage(reply, "bot");
     } catch {
       appendChatMessage(
-        "Estou com instabilidade no momento. Se preferir, fale com a equipe pelo WhatsApp.",
+        "Estou com instabilidade no momento. Fale com a equipe no WhatsApp para agendar seu atendimento.",
         "bot"
       );
     } finally {
